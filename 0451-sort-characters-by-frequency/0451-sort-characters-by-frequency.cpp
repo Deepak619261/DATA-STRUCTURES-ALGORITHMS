@@ -1,35 +1,35 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        //  we can do the by creating max heap , we will store the character with the frequency count with the char , heap will be a pair freq, char 
-       map<char,int>mpp;
-       for(int i=0;i<s.size();i++){
-        mpp[s[i]]++;
-       }
+        //  going with bucket sort approach 
+        //  steps 
+        // 1. store the frequency of the characters in map 
+        map<char,int>mpp;
+        for(int i=0;i<s.size();i++){
+            mpp[s[i]]++;
+        }
+        // 2. create a vector of string/element/chars with size of max frequency element 
+        int max_freq=0;
+        for(auto it:mpp){
+            max_freq=max(max_freq,it.second);
+        }
+        // 3. traverse throught the map and store the chars at the indices as their frequency 
+        vector<vector<char>>buckets(max_freq+1);
 
-       priority_queue<pair<int,char>>q;
-       for(auto it: mpp){
-        char ch=it.first;
-        int freq=it.second;
-        q.push({freq,ch});
-       }
+        for(auto &it : mpp){
+            buckets[it.second].push_back(it.first);
+        }
 
+        //  traverse throught the bucket list and create the ans string 
+        string ans="";
+        for(int i=max_freq;i>0;i--){
+            for(auto it: buckets[i]){
+                string str(i,it);
+                ans+=str;
+            }
+        }
 
-       string ans="";
+        return ans;
 
-       while(!q.empty()){
-        auto it=q.top();
-        int len=it.first;
-        char ch=it.second;
-        string store(len,ch);
-        ans+=store;
-        q.pop();
-       }
-
-
-       return ans;
-       
-
-        
     }
 };
