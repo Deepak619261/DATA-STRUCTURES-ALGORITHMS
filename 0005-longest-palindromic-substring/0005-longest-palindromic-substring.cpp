@@ -1,35 +1,54 @@
 class Solution {
-    string expand(string s, int left, int right){
-        while(left>=0 && right<s.length() && s[left]==s[right]){
-            left--;
-            right++;
+    string preprocess(string str){
+        string ans="";
+        ans+="^#";
+        for(int i=0;i<str.size();i++){
+            ans+=str[i];
+            ans+='#';
         }
 
-        return s.substr(left+1,right-left-1);
+        ans+='$';
+        return ans;
     }
 public:
     string longestPalindrome(string s) {
-        
-        if(s.size()<=1) return s;
-        
-        string ans="";
+        //  now move to the Manacher's algorithm 
+        string str=preprocess(s);
 
-        for(int i=0;i<s.size();i++){
-            //  we have to consider both possiblities that string may came as even or odd length 
-            string odd=expand(s,i,i);
-            string even=expand(s,i,i+1);
+        int n=str.size();
+        vector<int>store(n,0);
+        int C=0;
+        int R=0;
+        int maxLen=0;
+        int Centerindex=0;
 
-            if(odd.size()>ans.size()){
-                ans=odd;
+
+        for(int i=1;i<n-1;i++){
+            int mirror=2*C-i;
+
+
+            if(i<R){
+                store[i]=min(R-i,store[mirror]);
             }
 
-            if(even.size()>ans.size()){
-                ans=even;
+            while(str[i+1+store[i]]==str[i-1-store[i]]){
+                store[i]++;
             }
 
+
+            if(i+store[i]>R){
+                C=i;
+                R=i+store[i];
+            }
+
+
+            if(store[i]>maxLen){
+                maxLen=store[i];
+                Centerindex=i;
+            }
         }
 
-
-        return ans;
+        int start=(Centerindex-maxLen)/2;
+        return s.substr(start,maxLen);
     }
 };
