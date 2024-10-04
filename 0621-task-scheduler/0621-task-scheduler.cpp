@@ -1,30 +1,43 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        int arr[26]={0};
+        // implementation with priority queue 
+        priority_queue<int>pq;
 
-        for(char c:tasks){
-            arr[c-'A']++;
+        unordered_map<char,int>mpp;
+
+        for(char c : tasks){
+            mpp[c]++;
+        }
+        
+        for(auto it:mpp){
+            pq.push(it.second);
         }
 
-        //  sort the arr
-        sort(begin(arr),end(arr));
+        queue<pair<int,int>>CDQ;
+        //  freq, time 
+        int currTime=0;
 
-        //  take the most frequent 
-        int chunks=arr[25]-1;
+        while(!CDQ.empty() || !pq.empty()){
+            currTime++;
 
-        int idle_slots=chunks*n;
+            if(!CDQ.empty() && CDQ.front().second==currTime){
+                pq.push(CDQ.front().first);
+                CDQ.pop();
+            }
 
-        for(int i=24;i>=0;i--){
-            idle_slots-=min(chunks,arr[i]);
+            if(!pq.empty()){
+                int maxfreq=pq.top();
+                pq.pop();
+                maxfreq--;
+
+                if(maxfreq>0){
+                    CDQ.push({maxfreq,currTime+n+1});
+                }
+            }
         }
 
-
-        if(idle_slots>=0){
-            return tasks.size()+idle_slots;
-        }
-
-        return tasks.size();
-
+        return currTime;
+        
     }
 };
