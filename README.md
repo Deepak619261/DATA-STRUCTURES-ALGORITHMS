@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 | [1319-unique-number-of-occurrences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1319-unique-number-of-occurrences) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 | [1319-unique-number-of-occurrences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1319-unique-number-of-occurrences) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
@@ -54,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
@@ -115,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
