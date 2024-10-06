@@ -36,31 +36,33 @@ public:
      }
      int n=coins.size();
     //   tabulation 
-    vector<vector<int>>dp(n,vector<int>(amount+1,0));
+    vector<int>prev(amount+1,0);
 
     //  base condition 
     for(int i=0;i<=amount;i++){
         if(i%coins[0]==0){
-            dp[0][i]=i/coins[0];
+            prev[i]=i/coins[0];
         }
         else{
-            dp[0][i]=1e9;
+            prev[i]=1e9;
         }
     }
 
     for(int ind=1;ind<n;ind++){
+        vector<int>curr(amount+1,0);
         for(int j=0;j<=amount;j++){
             int taken=1e9;
             if(coins[ind]<=j){
-                taken=1+dp[ind][j-coins[ind]];
+                taken=1+curr[j-coins[ind]];
             }
-            int nottaken=dp[ind-1][j];
+            int nottaken=prev[j];
 
-            dp[ind][j]=min(taken,nottaken);
+            curr[j]=min(taken,nottaken);
         }
+        prev=curr;
     }
 
-    int ans=dp[n-1][amount];
+    int ans=prev[amount];
     
     if(ans>=1e9) return -1;
 
