@@ -38,9 +38,42 @@ public:
 
 
     if( (sum+target) % 2!=0 || aim>sum || aim<0) return 0;
-    vector<vector<int>>dp(n,vector<int>(aim+1,-1));
+    vector<vector<int>>dp(n,vector<int>(aim+1,0));
 
-    return solve(nums,aim,n-1,dp);
+    
+
+    //  tabulate it 
+    for(int j=0;j<=aim;j++){
+        if(j==0 && nums[0]==0){
+            dp[0][j]=2;
+        }
+        else if(j==0 || j==nums[0]){
+            dp[0][j]=1;
+        }
+    }
+    
+
+    //  do the processing 
+    for(int i=1;i<n;i++){
+        for(int j=0;j<=aim;j++){
+
+
+        int take=0;
+        if(nums[i]<=j){
+        take =dp[i-1][j-nums[i]];
+        }
+        int nottake=dp[i-1][j];
+
+
+        dp[i][j]=take+nottake;
+
+        }
+    }
+
+
+
+    return dp[n-1][aim];
+
     
 
     }
