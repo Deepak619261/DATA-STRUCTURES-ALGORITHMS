@@ -38,41 +38,44 @@ public:
 
 
     if( (sum+target) % 2!=0 || aim>sum || aim<0) return 0;
-    vector<vector<int>>dp(n,vector<int>(aim+1,0));
+    vector<int>prev(aim+1,0);
 
     
 
     //  tabulate it 
     for(int j=0;j<=aim;j++){
         if(j==0 && nums[0]==0){
-            dp[0][j]=2;
+            prev[j]=2;
         }
         else if(j==0 || j==nums[0]){
-            dp[0][j]=1;
+            prev[j]=1;
         }
     }
     
 
     //  do the processing 
     for(int i=1;i<n;i++){
+        vector<int>curr(aim+1,0);
+
         for(int j=0;j<=aim;j++){
 
 
         int take=0;
         if(nums[i]<=j){
-        take =dp[i-1][j-nums[i]];
+        take =prev[j-nums[i]];
         }
-        int nottake=dp[i-1][j];
+        int nottake=prev[j];
 
 
-        dp[i][j]=take+nottake;
+        curr[j]=take+nottake;
 
         }
+        prev=curr;
     }
 
 
 
-    return dp[n-1][aim];
+    return prev[aim];
 
     
 
