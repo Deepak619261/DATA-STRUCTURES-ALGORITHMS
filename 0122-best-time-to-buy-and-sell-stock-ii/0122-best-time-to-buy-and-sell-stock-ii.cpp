@@ -48,25 +48,16 @@ public:
         for(int i=n-1;i>=0;i--){
             vector<int>curr(2,0);
             for(int j=0;j<=1;j++){
-                int pickstock=0;
-                int notpickstock=0;
+                long profit=0;
 
                 if(j==0){
-                    pickstock=(-prices[i])+prev[1-j];
-                    notpickstock=prev[j];
+                    profit=max((long)(-prices[i]+prev[1-j]),(long)prev[j]);
                 }
-                int bought=max(pickstock,notpickstock);
-
-                int dropstock=0;
-                int notdropstock=0;
-                if(j==1){
-                    dropstock=prices[i]+prev[1-j];
-                    notdropstock=prev[j];
+                else{
+                    profit=max((long)(prices[i]+prev[1-j]),(long)prev[j]);
                 }
 
-                int sold=max(dropstock,notdropstock);
-
-                curr[j]=max(sold,bought);
+                curr[j]=profit;
             }
             prev=curr;
         }
