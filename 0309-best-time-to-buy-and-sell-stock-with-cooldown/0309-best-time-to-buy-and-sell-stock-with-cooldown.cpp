@@ -22,8 +22,31 @@ public:
     int maxProfit(vector<int>& prices) {
 
         int n=prices.size();
-        vector<vector<long>>dp(n+1,vector<long>(2,-1));
-        return (int)solve(prices,0,0,dp);
+        vector<vector<long>>dp(n+1,vector<long>(2,0));
+        //  lets do tabulation
+
+
+        for(int i=n-1;i>=0;i--){
+            for(int j=0;j<2;j++){
+                long profit=0;
+                if(j==0){
+                    profit=max((long)(-prices[i]+dp[i+1][!j]),dp[i+1][j]);
+                }
+                else{
+                    if(i+2<n){
+                        profit=max((long)(prices[i]+dp[i+2][!j]),dp[i+1][j]);
+                    }
+                    else{
+                        //  but you can still sell the stock on this day 
+                        profit=max((long)prices[i],dp[i+1][j]);  // we are taking maximum of selling on that day and previous profit if we don't 
+                    }
+                }
+                dp[i][j]=profit;
+            }
+        }
+
+        
+        return (int)dp[0][0];
         
     }
 };
