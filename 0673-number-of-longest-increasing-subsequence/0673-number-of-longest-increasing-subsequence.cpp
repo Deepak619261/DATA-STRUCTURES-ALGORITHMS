@@ -17,7 +17,7 @@ public:
                   count[i]=count[j];
                 }
                 else if(nums[j]<nums[i] && 1+dp[j]==dp[i]){
-                    dp[i]=1+dp[j];
+                    // dp[i]=1+dp[j];
                     // existing and the previous one 
                     count[i]=count[i]+count[j];
                 }
