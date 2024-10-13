@@ -16,6 +16,7 @@ class Solution {
         //  don't pick
         if(prev_index==-1 || nums[index]>nums[prev_index]){
            pick=1+solve(nums,index+1,index,dp); 
+        //     corrdinate shifting will shift the prev index value from one 
         }
 
 
@@ -28,7 +29,7 @@ public:
         //  let's tabulate the solution 
 
         for(int i=n-1;i>=0;i--){
-            for(int j=n-1;j>=-1;j--){
+            for(int j=i-1;j>=-1;j--){
                 int not_pick=dp[i+1][j+1];
                 int pick=0;
                 if(j==-1 || nums[i]>nums[j]){
