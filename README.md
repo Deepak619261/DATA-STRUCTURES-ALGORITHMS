@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
+| [1170-shortest-common-supersequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
+| [1170-shortest-common-supersequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
