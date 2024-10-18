@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -221,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0044-wildcard-matching) |
+| [1197-parsing-a-boolean-expression](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
