@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -233,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
