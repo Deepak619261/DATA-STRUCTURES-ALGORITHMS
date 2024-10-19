@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
@@ -236,5 +240,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
