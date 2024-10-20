@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
@@ -133,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0151-reverse-words-in-a-string) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
