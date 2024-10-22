@@ -9,22 +9,20 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        
-       map<ListNode* , int>mpp;
+        //  slow and fast pointer approach 
+        ListNode* fast=head;
+        ListNode* slow=head;
 
-       ListNode* temp=head;
+        while(fast && fast->next){
+            fast=fast->next;
+            if(fast){
+                fast=fast->next;
+            }
+            slow=slow->next;
 
-       while(temp){
-        if(mpp[temp]!=0){
-            return true;
+            if(slow==fast) return true;
         }
-        else{
-            mpp[temp]++;
-            temp=temp->next;
-        }
-       }
 
-       return false;
-
+        return false;
     }
 };
