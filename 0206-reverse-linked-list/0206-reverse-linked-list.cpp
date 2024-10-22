@@ -9,22 +9,24 @@
  * };
  */
 class Solution {
+   
 public:
     ListNode* reverseList(ListNode* head) {
-
-        if(head==NULL) return head;
-        ListNode* curr=head;
-        ListNode* prev=NULL;
-        ListNode* next=curr->next;
-
-
-        while(curr!=NULL){
-            curr->next=prev;
-            prev=curr;
-            curr=next;
-            if(curr)    next=curr->next;
+        //  reverse the linked list recursively 
+        if(head==NULL || head->next==NULL){
+            return head;
         }
 
-        return prev;
+        ListNode* newhead=reverseList(head->next);
+
+        ListNode* front=head->next;
+
+        front->next=head;
+        head->next=NULL;
+
+
+        return newhead;
+
+
     }
 };
