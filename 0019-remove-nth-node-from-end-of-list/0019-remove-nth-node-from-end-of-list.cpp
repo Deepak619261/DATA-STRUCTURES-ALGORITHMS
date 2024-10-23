@@ -9,52 +9,32 @@
  * };
  */
 class Solution {
-    int getlen(ListNode* head){
-        int count =0;
-
-        ListNode* temp=head;
-
-        while(temp){
-            count++;
-            temp=temp->next;
-        }
-
-        return count;
-    }
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        //  doing with two pass first 
-        int len=getlen(head);
+        // for you sunshine ! 
+     ListNode* first=head;   
+     ListNode* second=head;
 
-        if(n>len) return head;
+    //   the approach is very simple , we have to keep a distance of N between these two pointer and get to the last of the linked automatically the first pointer will be pointing towards the Nth from the last 
+    int count=n;
 
-        // if(head->next==NULL && n==1) return NULL;
+    while(count){
+        second=second->next;
+        count--;
+    }
+    
+    while(second && second->next){
+        second=second->next;
+        first=first->next;
+    }
 
-        
+    if(second==NULL) return first->next;
 
-        int del_ind=len-n+1;
+    if(first->next){
+        first->next=first->next->next;
+    }
 
-        ListNode* temp=head;
+    return head;
 
-        int counter=0;
-        ListNode* prev=NULL;
-
-        while(temp){
-            counter++;
-            
-            if(counter==del_ind){
-                if(prev==NULL){
-                    return temp->next;
-                }else{
-                     prev->next=temp->next;
-                     break;
-                }
-            }
-
-            prev=temp;
-            temp=temp->next;
-        }
-
-        return head;
     }
 };
