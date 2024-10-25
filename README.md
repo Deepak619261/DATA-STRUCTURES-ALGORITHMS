@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0368-largest-divisible-subset) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0234-palindrome-linked-list) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0240-search-a-2d-matrix-ii) |
 ## Quickselect
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0328-odd-even-linked-list) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
