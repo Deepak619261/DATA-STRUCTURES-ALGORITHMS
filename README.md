@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0234-palindrome-linked-list) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0328-odd-even-linked-list) |
