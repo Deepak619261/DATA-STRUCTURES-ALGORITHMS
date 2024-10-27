@@ -9,61 +9,37 @@
  * };
  */
 class Solution {
-    int getlen(ListNode* head){
-        if(head==NULL) return 0;
+public:
+    ListNode* rotateRight(ListNode* head, int k) {
+        //  edge case
+        if(head==NULL || head->next==NULL || k==0) return head;
 
-        int len=0;
+        int len=1;
 
         ListNode* temp=head;
 
-        while(temp){
+        while(temp->next){
             len++;
             temp=temp->next;
         }
 
-        return len;
-    }
-public:
-    ListNode* rotateRight(ListNode* head, int k) {
-        
-        int len=getlen(head);
+        temp->next=head;
+        k=k%len;
+        k=len-k-1;
 
+        temp=head;
 
-       
-
-        if(head==NULL || head->next==NULL || k==0 || k==len) return head;
-        
-
-        ListNode* slow=head;
-        ListNode* fast=head;
-        
-
-        while(k>len){
-            k=k%len;
+        while(k>0){
+            temp=temp->next;
+            k--;
         }
 
-        if(k==len || k==0) return head;
-       
+        ListNode* ans=temp->next;
 
-    
-
-        int cnt=0;
-
-        while(cnt<k && fast->next){
-            fast=fast->next;
-            cnt++;
-        }
-
-        while(fast->next){
-            slow=slow->next;
-            fast=fast->next;
-        }
-
-        ListNode*ans=slow->next;
-        slow->next=NULL;
-
-        fast->next=head;
+        temp->next=NULL;
 
         return ans;
+
+
     }
 };
