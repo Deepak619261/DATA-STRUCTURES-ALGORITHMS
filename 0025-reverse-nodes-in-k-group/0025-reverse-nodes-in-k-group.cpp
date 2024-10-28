@@ -40,40 +40,42 @@ class Solution {
    }
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* newhead=NULL;
+    
 
         ListNode* temp=head;
         ListNode* prevlast=NULL;
 
         while(temp!=NULL){
-            ListNode* temp2=getKthnode(temp,k);
 
-            if(temp2==NULL){
-                return newhead;
+            ListNode* kthNode=getKthnode(temp,k);
+
+            if(kthNode==NULL){
+                if(prevlast){
+                    prevlast->next=temp;
+                }
+                break;
             }
 
-            ListNode* next =temp2->next;
-            temp2->next=NULL;
+
+            ListNode* next=kthNode->next;
+            kthNode->next=NULL;
 
             reverseList(temp);
 
-            
-            
-            
-
-
-            if(prevlast){
-                prevlast->next=temp2;
+            if(temp==head){
+                head=kthNode;
             }
-           
-            if(newhead==NULL) newhead=temp2;
-            
+            else{
+                prevlast->next=kthNode;
+            }
+
             prevlast=temp;
-            temp->next=next;
+
             temp=next;
+           
         }
 
-        return newhead;
+        return head;
 
     }
 };
