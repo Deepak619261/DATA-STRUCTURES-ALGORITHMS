@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0368-largest-divisible-subset) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1885-count-number-of-homogenous-substrings) |
