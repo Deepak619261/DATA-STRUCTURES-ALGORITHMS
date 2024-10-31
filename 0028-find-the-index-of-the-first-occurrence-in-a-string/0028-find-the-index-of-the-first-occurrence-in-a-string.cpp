@@ -1,70 +1,72 @@
 class Solution {
-    vector<int>getprefix(string str){
-        int m=str.size();
-        vector<int>lps(m,0);
+
+    // z - algortihm 
+    vector<int>getzvector(string str){
+        int n=str.size();
+        vector<int>Z(n,0);
+
+        int L=0;
+        int R=0;
+
+        int i=0;
+
+        while(i<n){
+            //  there may be two possibilites one that we are iterating outside the Z-box
+            if(i>R){
+                   int R=i;
+                   int L=i;
+
+                   while(R<n && str[R-L]==str[R]){
+                    R++;
+                   }
+                   Z[i]=R-L;
+                   R--;
+            }
+            else{
+            //  second is just opposite
+            // here there exists two case first is that it is possible that 
+            int k=i-L;
 
 
-        int i=1;
-        int len=0;
 
-        while(i<m){
-              if(str[i]==str[len]){
-                len++;
-                lps[i]=len;
-                i++;
-              }
-              else{
-                if(len!=0){
-                    len=lps[len-1];
-                }
-                else{
-                    // lps[i]=0;
-                    i++;
-                }
-              }
+
+            //  first is that it is possible that the value we are putting fits in the Z box and second it doesn't fit in z box then we have recompare every thing 
+            if(Z[k]<=R-i){
+                Z[i]=Z[k];
+            }
+            else{
+                
+                L=i;
+                 while(R<n && str[R-L]==str[R]){
+                    R++;
+                   }
+                   Z[i]=R-L;
+                   R--;
+            }
+
+            }
+            i++;
         }
-        return lps;
+
+
+        return Z;
     }
 public:
     int strStr(string haystack, string needle) {
+        //  use black box technique in terms of thinking 
 
-        
+        string check=needle+"$"+haystack;
 
-        int i=0;
-        int j=0;
+        vector<int>Z=getzvector(check);
 
-        int n=haystack.size();
-        int m=needle.size();
+        int size=needle.size();
 
-
-        vector<int>lps=getprefix(needle);
-
-       while(i<n){
-            if(haystack[i]==needle[j]){
-                i++;
-                j++;
+        for(int i=0;i<Z.size();i++){
+            if(Z[i]==size){
+                return i-size-1;
             }
-
-
-            if(j==m){
-                return i-j;
-            }
-
-            if(haystack[i]!=needle[j]){
-                if(j!=0){
-                    j=lps[j-1];
-                }
-                else{
-                    i++;
-                }
-            }
-
         }
 
-
-
-
         return -1;
-        
     }
 };
