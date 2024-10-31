@@ -1,25 +1,18 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int ans=0;
-        vector<int>store;
+        int index=0;
+        int i=0;
         
-        for(auto it:nums){
-            if(it!=val){
-                ans++;
-                store.push_back(it);
+
+        for(int i =0;i<nums.size();i++){
+            if(nums[i]!=val){
+               nums[index]=nums[i];
+               index++;
             }
         }
 
+        return index;
 
-
-        for(int i=0;i<store.size();i++){
-            nums[i]=store[i];
-        }
-
-        
-
-           
-        return ans;
     }
 };
