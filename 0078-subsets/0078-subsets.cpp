@@ -1,22 +1,22 @@
 class Solution {
-public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        int n=nums.size();
-        
-        int numofsubsets=(1<<n);
-
-        vector<vector<int>>ans;
-
-        for(int i=0;i<numofsubsets;i++){
-            vector<int>store;
-            for(int j=0;j<n;j++){
-                if(i&(1<<j)){
-                    store.push_back(nums[j]);
-                }
-            }
-            ans.push_back(store);
+    void solve(int index, int n,vector<vector<int>>&ds,vector<int>&store,vector<int>nums){
+        if(index==n){
+            ds.push_back(store);
+            return;
         }
 
-        return ans;
+        //  pick and non pick approach 
+        store.push_back(nums[index]);
+        solve(index+1,n,ds,store,nums);
+        store.pop_back();
+
+        solve(index+1,n,ds,store,nums);
+    }
+public:
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>>ds;
+        vector<int>store;
+        solve(0,nums.size(),ds,store,nums);
+        return ds;
     }
 };
