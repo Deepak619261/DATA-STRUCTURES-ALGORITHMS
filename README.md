@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0208-implement-trie-prefix-tree) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0300-longest-increasing-subsequence) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0494-target-sum) |
 ## Bit Manipulation
