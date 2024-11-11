@@ -1,69 +1,39 @@
 class Solution {
-
-    bool isvalid(vector<string>board, int row, int col,int n){
-        // so we are traversing row wise so we will check in leftup diagonal , rightupdiagonal and upper 
-        int i=row;
-        int j=col;
-
-
-       // check for the straight in the straight line 
-        while(i>=0){
-            if(board[i][j]=='Q') return false;
-            i--;
-        }
-
-        i=row;
-        j=col;
-
-        // check for the upper left diagonal for that i-- , j--
-
-        while(i>=0 && j>=0){
-            if(board[i][j]=='Q') return false;
-            i--;
-            j--;
-        }
-
-
-        i=row;
-        j=col;
-
-        while(i>=0 && j<n){
-            if(board[i][j]=='Q')return false;
-            i--;
-            j++;
-        }
-
-
-        return true;
-    }
-    void solve(vector<string>board,vector<vector<string>>&ans,int row, int col,int n){
+    void solve(int row, int col , vector<vector<string>>&ans, vector<string>board,int n,vector<int>&up, vector<int>&leftupdiag,vector<int>&rightupdiag){
         if(row==n){
             ans.push_back(board);
             return;
         }
 
         for(int col=0;col<n;col++){
-            if(isvalid(board,row,col,n)){
-                board[row][col]='Q';
-                solve(board,ans,row+1,col,n);
-                board[row][col]='.';
+            if(up[col]==0 && leftupdiag[row-col+n-1]==0 && rightupdiag[row+col]==0){
+              leftupdiag[row-col+n-1]=1;
+              up[col]=1;
+              rightupdiag[row+col]=1;
+              board[row][col]='Q';
+              solve(row+1,col,ans,board,n,up,leftupdiag,rightupdiag);
+              leftupdiag[row-col+n-1]=0;
+              up[col]=0;
+              rightupdiag[row+col]=0;
+              board[row][col]='.';
             }
         }
     }
 public:
     vector<vector<string>> solveNQueens(int n) {
+        //  optimized approach where we just want to check if we can somehow optimize the check functino 
         vector<vector<string>>ans;
         vector<string>board(n);
 
-
         string str(n,'.');
-
         for(int i=0;i<n;i++){
             board[i]=str;
         }
 
-        solve(board,ans,0,0,n);
-
+        vector<int>up(n,0);
+        vector<int>leftupdiag(2*n,0);
+        vector<int>rightupdiag(2*n,0);
+        solve(0,0,ans,board,n,up,leftupdiag,rightupdiag);
         return ans;
     }
 };
