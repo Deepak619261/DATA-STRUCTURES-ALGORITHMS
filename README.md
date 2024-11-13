@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
