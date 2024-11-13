@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0368-largest-divisible-subset) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0518-coin-change-ii) |
