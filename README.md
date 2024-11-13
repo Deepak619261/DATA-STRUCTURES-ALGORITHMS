@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0242-valid-anagram) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
