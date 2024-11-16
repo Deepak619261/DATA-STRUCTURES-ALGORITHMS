@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0214-shortest-palindrome) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -358,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1508-longest-happy-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
