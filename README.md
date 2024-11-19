@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2050-count-good-numbers](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2050-count-good-numbers) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
