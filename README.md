@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
