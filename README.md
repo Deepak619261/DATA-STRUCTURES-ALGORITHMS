@@ -399,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
