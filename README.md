@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0322-coin-change) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Design
 |  |
 | ------- |
@@ -410,8 +411,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
