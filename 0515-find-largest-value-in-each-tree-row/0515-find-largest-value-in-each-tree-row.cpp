@@ -52,6 +52,8 @@ public:
         }
         ans.push_back(maxi);
 
+        // i removed the jhanjhat of storing the null nodes that lead to me free of doubt if the maxi is initialised value or compared because, in every iteration, it is gurranted that maxi is previously compared to the value of the node 
+
         return ans;
         
     }
