@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-hand-of-straights) |
+| [1063-best-sightseeing-pair](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0730-count-different-palindromic-subsequences) |
 | [1013-fibonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1170-shortest-common-supersequence) |
