@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2562-count-ways-to-build-good-strings) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3654-minimum-array-sum) |
 ## Backtracking
