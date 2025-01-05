@@ -62,7 +62,7 @@ class Solution {
     }
 public:
     int maxLength(vector<int>& nums) {
-        unsigned long long int prod=1;
+        unsigned long long prod=1;
 
         int ans=INT_MIN;
 
