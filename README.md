@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 | [1319-unique-number-of-occurrences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1524-string-matching-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1524-string-matching-in-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1524-string-matching-in-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
