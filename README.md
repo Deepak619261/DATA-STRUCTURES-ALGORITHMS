@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3654-minimum-array-sum) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -435,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Database
 |  |
 | ------- |
