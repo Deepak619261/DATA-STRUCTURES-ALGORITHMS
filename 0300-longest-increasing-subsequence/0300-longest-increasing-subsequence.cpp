@@ -1,27 +1,24 @@
 class Solution {
-public:
-    int lengthOfLIS(vector<int>& nums) {
-        //  tabulation solution 
-        //  let's space optimize this 
-        int n=nums.size();
-        vector<int>prev(n+1,0);
-       
-        for(int i=n-1;i>=0;i--){
-            vector<int>curr(n+1,0);
-            for(int j=i-1;j>=-1;j--){
-                int pick=0;
-                if(j==-1 || nums[i]>nums[j]){
-                    pick=1+prev[i+1];
-                }
-                int notpick=prev[j+1];
+    int solve(int index, int previndex, vector<int>&nums,vector<vector<int>>&dp){
+        if(index==nums.size())return 0;
 
-                curr[j+1]=max(pick, notpick);
-            }
-            prev=curr;
+        if(dp[index][previndex+1]!=-1)return dp[index][previndex+1];
+
+        int notpick=solve(index+1,previndex,nums,dp);
+        int pick=0;
+
+        if(previndex==-1 || nums[index]>nums[previndex]){
+           pick=1+solve(index+1,index,nums,dp);
         }
 
-        return prev[0];
+        return dp[index][previndex+1]=max(pick,notpick);
+    }
+public:
+    int lengthOfLIS(vector<int>& nums) {
+        //  ah , i forgot how to tabulate the recursive solution 
+        int n=nums.size();
+        vector<vector<int>>dp(n,vector<int>(n+1,-1));
+        return solve(0,-1,nums,dp);
 
-        
     }
 };
