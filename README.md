@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-hand-of-straights) |
+| [0952-word-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1121-partition-array-for-maximum-sum) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-hand-of-straights) |
+| [0952-word-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 | [1319-unique-number-of-occurrences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1319-unique-number-of-occurrences) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0686-repeated-string-match) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0730-count-different-palindromic-subsequences) |
+| [0952-word-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1170-shortest-common-supersequence) |
