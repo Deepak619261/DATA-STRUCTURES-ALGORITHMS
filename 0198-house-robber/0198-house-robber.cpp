@@ -12,16 +12,21 @@ class Solution {
     }
 public:
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size()+2,0);
         
+        
+        int next2=0;
+        int next1=0;
+        int curr=0;
 
         for(int i=nums.size()-1;i>=0;i--){
-            int takethatcell=nums[i]+dp[i+2];
-            int nottakethatcell=dp[i+1];
+            int takethatcell=nums[i]+next2;
+            int nottakethatcell=next1;
 
-            dp[i]=max(takethatcell,nottakethatcell);
+            curr=max(takethatcell,nottakethatcell);
+            next2=next1;
+            next1=curr;
         }
 
-        return dp[0];
+        return curr;
     }
 };
