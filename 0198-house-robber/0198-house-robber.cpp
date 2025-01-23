@@ -12,7 +12,16 @@ class Solution {
     }
 public:
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size(),-1);
-        return solve(0,nums,dp);
+        vector<int>dp(nums.size()+2,0);
+        
+
+        for(int i=nums.size()-1;i>=0;i--){
+            int takethatcell=nums[i]+dp[i+2];
+            int nottakethatcell=dp[i+1];
+
+            dp[i]=max(takethatcell,nottakethatcell);
+        }
+
+        return dp[0];
     }
 };
