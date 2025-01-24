@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1876-map-of-highest-peak) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -514,4 +516,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
