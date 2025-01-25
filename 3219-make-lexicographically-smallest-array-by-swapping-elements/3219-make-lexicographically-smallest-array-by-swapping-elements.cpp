@@ -1,38 +1,69 @@
+class DisjointSet{
+   public: 
+   vector<int>parent,size;
+   DisjointSet(int n){
+    parent.resize(n+1);
+    size.resize(n+1);
+
+    for(int i=0;i<=n;i++){
+        parent[i]=i;
+    }
+   }
+
+   int findPar(int node){
+    if(node==parent[node])return node;
+
+    return parent[node]=findPar(parent[node]);
+   }
+
+
+   void unionBYsize(int a, int b){
+    int ulp_a=findPar(a);
+    int ulp_b=findPar(b);
+
+    if(ulp_a==ulp_b)return;
+
+    if(size[ulp_a]>size[ulp_b]){
+        parent[ulp_b]=ulp_a;
+        size[ulp_a]+=size[ulp_b];
+    }
+    else{
+        parent[ulp_a]=ulp_b;
+        size[ulp_b]+=size[ulp_a];
+    }
+   }
+};
+
 class Solution {
 public:
     vector<int> lexicographicallySmallestArray(vector<int>& nums, int limit) {
+           vector<pair<int,int>>temp;
 
-        vector<int>original=nums;
-        sort(nums.begin(),nums.end());
+           for(int i=0;i<nums.size();i++){
+              temp.push_back({nums[i],i});
+           } 
 
-        map<int,int>mpp1;
-        // mpp1 is to track the realtion of group number and current element 
-        // mpp2 is to store the element to corresponding the group number
-        map<int,queue<int>>mpp2;
+           sort(temp.begin(),temp.end());
 
-        int currGroup=0;
+           DisjointSet DS(nums.size());
 
-        mpp1[nums[0]]=currGroup;
-        mpp2[currGroup].push(nums[0]);
+           for(int i=1;i<temp.size();i++){
+              if(abs(temp[i].first-temp[i-1].first)<=limit){
+                DS.unionBYsize(temp[i].second,temp[i-1].second);
+              }
+           }
 
-        for(int i=1;i<nums.size();i++){
-            if(abs(nums[i]-nums[i-1])>limit){
-                currGroup++;
-            }
-            // currGroup++;
-            mpp1[nums[i]]=currGroup;
-            mpp2[currGroup].push(nums[i]);
-        }
+           map<int,priority_queue <int, vector<int>, greater<int>>>mpp;
 
-        for(int i=0;i<original.size();i++){
-            int group=mpp1[original[i]];
-            if(!mpp2[group].empty()){
-                original[i]=mpp2[group].front();
-                mpp2[group].pop();
-            }
-        }
+           for(int i=0;i<nums.size();i++){
+               mpp[DS.findPar(i)].push(nums[i]);
+           }
 
-        return original;
-        
+           for(int i=0;i<nums.size();i++){
+              nums[i]=mpp[DS.findPar(i)].top();
+              mpp[DS.findPar(i)].pop();
+           }
+
+           return nums;
     }
 };
