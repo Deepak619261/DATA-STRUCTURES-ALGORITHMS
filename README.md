@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0282-expression-add-operators) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0062-unique-paths) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Union Find
 |  |
