@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2358-number-of-ways-to-split-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Divide and Conquer
 |  |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Design
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
