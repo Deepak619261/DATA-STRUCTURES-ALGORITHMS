@@ -1,36 +1,22 @@
 class Solution {
 public:
     int minRectanglesToCoverPoints(vector<vector<int>>& points, int w) {
-        set<int>st;
+        sort(points.begin(),points.end());
 
-        // set stores the element in the sorted order
+        // int ans=0;
         
-        for(auto it:points){
-           st.insert(it[0]);
-        }
+        int ans=1;
+        int start=points[0][0];
 
-        if(w==0)return st.size();
-
-        vector<int>temp;
-
-        for(auto it:st){
-            temp.push_back(it);
-            cout<<temp.back()<<" ";
-        }
-
-
-        int start=temp[0];
-        int cnt=0;
-
-        for(int i=0;i<temp.size();i++){
-            if((temp[i]-start>w)){
-                cnt++;
-                start=temp[i];
+        for(int i=0;i<points.size();i++){
+            if(points[i][0]-start>w){
+                ans++;
+                start=points[i][0];
             }
         }
 
-        return cnt+1;
+        return ans;
 
-        
+
     }
 };
