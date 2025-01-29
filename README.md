@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
