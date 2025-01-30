@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0141-linked-list-cycle) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0684-redundant-connection) |
 | [1308-smallest-string-with-swaps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
