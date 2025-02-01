@@ -23,10 +23,29 @@ public:
         int ans=INT_MIN;
 
 
-        vector<vector<int>>dp(n,vector<int>(k,-1));
+        vector<vector<int>>dp(n+1,vector<int>(k+1,0));
+
+        for(int day=k-1;day>=0;day--){
+            for(int city=n-1;city>=0;city--){
+
+
+        int stay=stayScore[day][city]+dp[city][day+1];
+        int move=INT_MIN;
 
         for(int i=0;i<n;i++){
-        ans=max(ans,solve(i,0,stayScore,travelScore,n,k,dp));
+            if(i==city)continue;
+            int check=travelScore[city][i]+dp[i][day+1];
+            move=max(check,move);
+        }
+
+
+        dp[city][day]=max(stay,move);
+
+            }
+        }
+
+        for(int i=0;i<n;i++){
+        ans=max(ans,dp[i][0]);
         }
 
         return ans;
