@@ -23,7 +23,35 @@ public:
     int countPathsWithXorValue(vector<vector<int>>& grid, int k) {
         int m=grid.size();
         int n=grid[0].size();
-        vector<vector<vector<int>>>dp(m,vector<vector<int>>(n,vector<int>(16,-1)));
-        return solve(0,0,grid,0,m,n,k,dp);
+        vector<vector<vector<int>>>dp(m,vector<vector<int>>(n,vector<int>(16,0)));
+        // lets do tabulation 
+        
+        for(int i=0;i<16;i++){
+            if((grid[m-1][n-1]^i)==k){
+                dp[m-1][n-1][i]=1;
+
+            }
+        }
+
+
+        for(int row=m-1;row>=0;row--){
+            for(int col=n-1;col>=0;col--){
+                for(int xorval=0;xorval<16;xorval++){
+                    if(row==m-1 && col==n-1)continue;
+                    int down=0;
+                    int right=0;
+                    if(row+1<m){
+                       down=dp[row+1][col][xorval^grid[row][col]];
+                    }
+                    if(col+1<n){
+                        right=dp[row][col+1][xorval^grid[row][col]];
+                    }
+
+                    dp[row][col][xorval]=(down+right)%MOD;
+                }
+            }
+        }
+
+        return dp[0][0][0];
     }
 };
