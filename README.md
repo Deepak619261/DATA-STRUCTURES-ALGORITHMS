@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3427-special-array-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3429-special-array-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0300-longest-increasing-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
+| [3427-special-array-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3427-special-array-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Hash Table
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3427-special-array-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3427-special-array-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Database
