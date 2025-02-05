@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1319-unique-number-of-occurrences) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
