@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0078-subsets) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0282-expression-add-operators) |
