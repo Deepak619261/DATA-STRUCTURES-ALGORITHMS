@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3737-paint-house-iv](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3737-paint-house-iv) |
+| [3750-closest-equal-element-queries](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3750-closest-equal-element-queries) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Math
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3427-special-array-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
+| [3750-closest-equal-element-queries](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3750-closest-equal-element-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2685-first-completely-painted-row-or-column) |
+| [3750-closest-equal-element-queries](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3750-closest-equal-element-queries) |
 ## String
 |  |
 | ------- |
