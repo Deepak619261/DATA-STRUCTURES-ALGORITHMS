@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3427-special-array-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Matrix
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Prefix Sum
 |  |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Database
@@ -612,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2610-closest-prime-numbers-in-range) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
