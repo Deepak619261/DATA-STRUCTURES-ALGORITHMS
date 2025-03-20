@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1900-closest-dessert-cost](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1900-closest-dessert-cost) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1900-closest-dessert-cost](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1900-closest-dessert-cost) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2562-count-ways-to-build-good-strings) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0494-target-sum) |
+| [1900-closest-dessert-cost](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1900-closest-dessert-cost) |
 ## Bit Manipulation
 |  |
 | ------- |
