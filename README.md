@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2358-number-of-ways-to-split-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [3750-closest-equal-element-queries](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3750-closest-equal-element-queries) |
 ## String
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -611,10 +614,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Number Theory
 |  |
 | ------- |
