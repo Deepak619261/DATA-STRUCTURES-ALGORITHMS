@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 | [1308-smallest-string-with-swaps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1308-smallest-string-with-swaps) |
 | [1319-unique-number-of-occurrences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1319-unique-number-of-occurrences) |
+| [1325-path-with-maximum-probability](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1325-path-with-maximum-probability) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1524-string-matching-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1524-string-matching-in-an-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1127-last-stone-weight) |
+| [1325-path-with-maximum-probability](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1325-path-with-maximum-probability) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
+| [1325-path-with-maximum-probability](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2793-count-the-number-of-complete-components) |
@@ -642,5 +645,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
