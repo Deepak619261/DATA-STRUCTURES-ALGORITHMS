@@ -1,49 +1,49 @@
 class Solution {
-    int mod=(int)(1e9+7);
+    int MOD=1e9+7;
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
-        //  we'll store the number of ways to reach the destination also 
-        vector<int>ways(n,0);
+        // dijkstra algorithm 
+        priority_queue< pair<long long,int> , vector<pair<long long,int>>,greater<pair<long,int>>>pq;
         vector<long long>dist(n,LLONG_MAX);
 
-        //  store the data into graph 
+        dist[0]=0;
+
         vector<vector<pair<int,int>>>adj(n);
+
+        // node -> {adj node , weight}
 
         for(auto it:roads){
             adj[it[0]].push_back({it[1],it[2]});
             adj[it[1]].push_back({it[0],it[2]});
         }
 
-
-        priority_queue<pair<long long,int>,vector<pair<long long,int>>,greater<pair<long long,int>>>pq;
-        pq.push({0,0});
         dist[0]=0;
+        pq.push({0,0});
+        vector<long long>ways(n,0);
         ways[0]=1;
-
+        
         while(!pq.empty()){
-            long long distance=pq.top().first;
-            int node=pq.top().second;
+            auto it=pq.top();
+            int node=it.second;
+            long long wt=it.first;
             pq.pop();
-            // if(node==n-1){
-            //     continue;
-            // }
-
 
             for(auto it:adj[node]){
-                int wt=it.second;
-                int adjNode=it.first;
-                if(wt+distance<dist[adjNode]){
-                    dist[adjNode]=wt+distance;
-                    ways[adjNode]=ways[node];
-                    pq.push({wt+distance,adjNode});
+                int adjnode=it.first;
+                if(wt+it.second<dist[adjnode]){
+                    dist[adjnode]=wt+it.second;
+                    ways[adjnode]=ways[node]%MOD;
+                    pq.push({wt+it.second,adjnode});
                 }
-                else if(wt+distance==dist[adjNode]){
-                    ways[node]=ways[node]%mod;
-                    ways[adjNode]=(ways[adjNode]+ways[node])%mod;
+                else if(wt+it.second==dist[adjnode]){
+                    ways[adjnode]+=ways[node]%MOD;
                 }
             }
         }
+        return ways[n-1]%MOD;
+
         
-        return ways[n-1]%mod;
-            }
+
+        
+    }
 };
