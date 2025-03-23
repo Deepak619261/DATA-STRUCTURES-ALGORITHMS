@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0813-all-paths-from-source-to-target) |
 | [1900-closest-dessert-cost](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1900-closest-dessert-cost) |
 ## Bit Manipulation
 |  |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
 | [1117-as-far-from-land-as-possible](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1117-as-far-from-land-as-possible) |
 | [1308-smallest-string-with-swaps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1308-smallest-string-with-swaps) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
 | [1308-smallest-string-with-swaps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
