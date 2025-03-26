@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2358-number-of-ways-to-split-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2358-number-of-ways-to-split-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3427-special-array-ii) |
@@ -674,4 +678,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Enumeration
+|  |
+| ------- |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
