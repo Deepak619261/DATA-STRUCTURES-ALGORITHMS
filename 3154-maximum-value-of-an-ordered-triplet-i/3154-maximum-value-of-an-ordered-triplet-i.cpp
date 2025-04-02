@@ -1,37 +1,25 @@
 class Solution {
 public:
     long long maximumTripletValue(vector<int>& nums) {
-        // another approach can be -> maintain the maximums for all the indices in that way we just need to do this in O(n^2)
+        // thing is if you look carefully then we want to maximize the overall value so for that we want to maximize the nums[i]
         int n=nums.size();
-        vector<int>preMax(n,0);
 
-        int maxi=nums.back();
+        long long ans=0;
 
-        for(int i=n-1;i>=0;i--){
-            maxi=max(maxi,nums[i]);
-            preMax[i]=maxi; 
-        }
+        int maxi=nums[0];
 
-        for(auto it:preMax){
-            cout<<it<<" ";
-        }
-
-        long ans=0;
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n-1;j++){
-                long check=((long)nums[i]-(long)nums[j]);
-                check=check*preMax[j+1];
-                if(check>0){
-                    ans=max(check,ans);
-                }
+        for(int j=1;j<n;j++){
+            for(int k=j+1;k<n;k++){
+                long long check=(maxi-nums[j]);
+                check=check*nums[k];
+                cout<<check<<"->"<<j<<","<<k;
+                if(check>0)ans=max(check,ans);
+                maxi=max(maxi,nums[j]);
             }
         }
 
         return ans;
 
-        
 
-        
-        
     }
 };
