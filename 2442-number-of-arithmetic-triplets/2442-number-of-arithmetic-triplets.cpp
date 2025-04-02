@@ -1,23 +1,24 @@
 class Solution {
 public:
     int arithmeticTriplets(vector<int>& nums, int diff) {
-        // lets go with the brute force first 
-        set<vector<int>>st;
-        int count=0;
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                for(int k=j+1;k<n;k++){
-                   if((nums[j] - nums[i] == diff) && (nums[k] - nums[j] == diff)){
-                      vector<int>check={nums[i],nums[j],nums[k]};
-                      if(st.count(check)==0){
-                        count++;
-                        st.insert(check);
-                      }
-                   }
-                }
-            }
+        unordered_map<int,int>mpp;
+        unordered_set<int>st;
+        for(auto it:nums){
+            mpp[it]++;
         }
+        
+        int count=0;
+
+        for(int it:nums){
+           if(mpp[it+diff]!=0 && mpp[it+2*diff] && st.count(it)==0){
+              count++;
+              mpp[it]--;
+              if(mpp[it]==0){
+                mpp.erase(it);
+              }
+           }
+        }
+
         return count;
     }
 };
