@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-paint-house-iv](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3737-paint-house-iv) |
 | [3750-closest-equal-element-queries](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3750-closest-equal-element-queries) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3831-find-x-value-of-array-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3831-find-x-value-of-array-i) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3831-find-x-value-of-array-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3831-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3737-paint-house-iv](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3737-paint-house-iv) |
+| [3831-find-x-value-of-array-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3831-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
