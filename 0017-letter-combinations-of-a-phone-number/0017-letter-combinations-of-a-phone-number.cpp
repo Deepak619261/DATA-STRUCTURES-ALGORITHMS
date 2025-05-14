@@ -1,30 +1,38 @@
 class Solution {
-    void solve(string digits,vector<string>&ans,string str[],int index,string store){
-         if(index==digits.size()){
-            if(store.size()==digits.size()){
-            ans.push_back(store);
-            }  
+    void solve(int index,vector<string>&ans,string digits,vector<string>&dict,string curr){
+        if(index==digits.size()){
+            if(!curr.empty()){
+            ans.push_back(curr);
+            }
             return;
-         }
+        }
 
-         int num=digits[index]-'0';
-
-         for(int i=0;i<str[num].size();i++){
-            store+=str[num][i];
-            solve(digits,ans,str,index+1,store);
-            store.pop_back();
-         }
+        // lets say i am at the first index 
+        for(int i=0;i<dict[digits[index]-'0'].size();i++){
+            solve(index+1,ans,digits,dict,curr+dict[digits[index]-'0'][i]);
+        }
     }
 public:
     vector<string> letterCombinations(string digits) {
-        // we have to create a map for this question 
-
-        string str[]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         vector<string>ans;
-        if(digits=="") return ans;
-        solve(digits,ans,str,0,"");
+        // create the mapping 
+        vector<string>dict(10);
+        dict.push_back("");
+
+        dict[2]="abc";
+        dict[3]="def";
+        dict[4]="ghi";
+        dict[5]="jkl";
+        dict[6]="mno";
+        dict[7]="pqrs";
+        dict[8]="tuv";
+        dict[9]="wxyz";
+
+        solve(0,ans,digits,dict,"");
 
         return ans;
+    
+       
         
     }
 };
