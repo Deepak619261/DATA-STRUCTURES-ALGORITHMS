@@ -1,24 +1,23 @@
 class Solution {
-public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        // in this approach we are gonna build the power set through bit manipulation 
-        int n=nums.size();
-
-        int numofsubsets=1<<n;
-
-        vector<vector<int>>result;
-
-        for(int i=0;i<numofsubsets;i++){
-            vector<int>store;
-
-            for(int j=0;j<n;j++){
-                if(i&(1<<j)){
-                    store.push_back(nums[j]);
-                }
-            }
-            result.push_back(store);
+    void solve(int index,vector<int>&nums,vector<int>temp,vector<vector<int>>&ans){
+        if(index==nums.size()){
+            ans.push_back(temp);
+            return;
         }
 
-        return result;
+        // at every step i have two option , either i can take the current entry or i can't 
+
+        solve(index+1,nums,temp,ans);
+
+        temp.push_back(nums[index]);
+        solve(index+1,nums,temp,ans);
+        temp.pop_back();
+    }
+public:
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<int>temp;
+        vector<vector<int>>ans;
+        solve(0,nums,temp,ans);
+        return ans;
     }
 };
