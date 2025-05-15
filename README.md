@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3447-clear-digits) |
 ## Sorting
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1900-closest-dessert-cost](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1900-closest-dessert-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2562-count-ways-to-build-good-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3654-minimum-array-sum) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3647-zero-array-transformation-iii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3712-minimum-cost-to-make-arrays-identical) |
