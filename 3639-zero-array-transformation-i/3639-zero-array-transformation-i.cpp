@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
+        // if you hover over the subset -> it says possilby none ! 
         int n=nums.size();
         vector<int>temp(n+1,0);
 
