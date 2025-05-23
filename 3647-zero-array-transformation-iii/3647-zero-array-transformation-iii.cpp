@@ -1,38 +1,40 @@
 class Solution {
 public:
     int maxRemoval(vector<int>& nums, vector<vector<int>>& queries) {
-        // upsolving the question from the virtual contest on the leetcode biweekly 144
-        priority_queue<int>pick; // normal queue acts as max heap means it will have the greatest element on the top of the queue 
-        priority_queue<int,vector<int>,greater<int>>used;  // mean heap will contain the minimum element on its top 
-
-        //  sort the queries so we can get the index wise queries as we want the minimum query to get used 
-
+        // have watched the editorial 
+        
+        // our objective is to find the minimum queries so that the array can become a zero array 
+        //  if we carefully observe then we want that in queries the index i should come atlease nums[i] times only then that element can become zero , 
+        // we will go greedily in this problem 
         sort(queries.begin(),queries.end());
+        int n=nums.size();
+        vector<int>diff(n+1,0);
+
         int j=0;
-        int ans=0;
+        int i=0;
+        int op=0;
 
-        for(int i=0;i<nums.size();i++){
-            while(j<queries.size() && queries[j][0]==i){
-                pick.push(queries[j][1]);
-                j++;
-            }
+        priority_queue<int>pq;
 
-            //  check if we can subtract the current element with already used queries 
-            nums[i]-=used.size();
+        // diff array tracks the coverage 
+        while(i<nums.size()){
+             op+=diff[i];
 
-            while(nums[i]>0 && !pick.empty() && pick.top()>=i){
-                ans++;
-                used.push(pick.top());
-                pick.pop();
-                nums[i]--;
-            }
+             while(j<queries.size() && queries[j][0]==i){
+                  pq.push(queries[j][1]);
+                  j++;
+             }
 
-            //  still we are not able to make the element zero 
-            if(nums[i]>0)return -1;
+             while(op<nums[i] && !pq.empty() && pq.top()>=i){
+                op+=1;
+                diff[pq.top()+1]-=1;
+                pq.pop();
+             }
 
-            while(!used.empty() && used.top()==i)used.pop();
+             if(op<nums[i])return -1;
+             i++;
         }
 
-        return queries.size()-ans;
+        return pq.size();
     }
 };
