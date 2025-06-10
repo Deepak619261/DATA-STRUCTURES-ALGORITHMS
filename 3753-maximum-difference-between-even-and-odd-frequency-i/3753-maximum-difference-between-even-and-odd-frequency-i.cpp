@@ -1,25 +1,23 @@
 class Solution {
 public:
     int maxDifference(string s) {
-        map<char,int>mpp;
+        unordered_map<char,int>mpp;
         for(auto it:s){
             mpp[it]++;
         }
-
-        // for max difference we need the bigger odd freq 
-        // and as min as possible even freq character 
-        int oddfreq=INT_MIN;
-        int evenfreq=INT_MAX;
+        int a1=INT_MIN;
+        int a2=INT_MAX;
 
         for(auto it:mpp){
-            if(it.second%2==0){
-                evenfreq=min(evenfreq,it.second);
-            }
-            else{
-                oddfreq=max(oddfreq,it.second);
-            }
+           if(it.second%2==0){
+            a2=min(a2,it.second);
+           }
+           else{
+            a1=max(a1,it.second);
+           }
         }
-
-        return oddfreq-evenfreq;
+        if(a2==INT_MAX)return a1;
+        if(a1==INT_MIN)return 0;
+        return a1-a2;
     }
 };
