@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1319-unique-number-of-occurrences) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
