@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 | [3737-paint-house-iv](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3737-paint-house-iv) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3750-closest-equal-element-queries) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3831-find-x-value-of-array-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3831-find-x-value-of-array-i) |
