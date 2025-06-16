@@ -1,29 +1,24 @@
 class Solution {
 public:
     int maxFrequency(vector<int>& nums, int k) {
-        // the disadvantage of doing any sheet is that you first look on the topic the question is from which so it never helps in problem solving 
-
-        sort(nums.begin(),nums.end());
-        long long sum =0;
+        //  the basic intution here is that for sure we won't like to take a target to make all elements equal outside of a nums for sure
         int left=0;
-        int right=0;
+        long long sum=0;
+        int ans=0;
+        sort(nums.begin(),nums.end());
 
-        int result=0;
-
-        while(right<nums.size()){
+        for(int right=0;right<nums.size();right++){
             sum+=nums[right];
-            long long req_cost=(long long)nums[right]*(right-left+1);
-            while(req_cost-sum>k && left<=right){
+            // long long req=(long long)(right-left+1)*(long long)nums[right]-sum;
+
+            while((long long)(right-left+1)*(long long)nums[right]-sum>k && left<nums.size()){
                 sum-=nums[left];
                 left++;
-                req_cost=(long long)nums[right]*(right-left+1);
             }
-            result=max(result,right-left+1);
-            right++;
+
+            ans=max(ans,right-left+1);
+            
         }
-
-        
-
-        return result;
+        return ans;
     }
 };
