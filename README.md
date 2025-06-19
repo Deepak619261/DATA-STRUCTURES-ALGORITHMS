@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
