@@ -1,30 +1,20 @@
 class Solution {
-    int solve(int n, vector<int>&dp){
-        if(n==0)return 1;
-
-        if(n<0)return 0;
+    int solve(int n,vector<int>&dp){
+        if(n<=0)return 1;
 
         if(dp[n]!=-1)return dp[n];
 
-        int firstway=climbStairs(n-1);
-        int secondway=climbStairs(n-2);
+        int onestep=solve(n-1,dp);
+        int twostep=0;
+        if(n>=2)twostep=solve(n-2,dp);
 
-
-        return dp[n]=firstway+secondway;
+        return dp[n]=onestep+twostep;
     }
+    
 public:
     int climbStairs(int n) {
-       
-    vector<int>dp(n+1,-1);
-    dp[0]=1;
-    
-    dp[1]=1;
-
-    for(int i=2;i<=n;i++){
-        dp[i]=dp[i-1]+dp[i-2];
-    }
-
-    return dp[n];
-
+        
+        vector<int>dp(n+1,-1);
+        return solve(n,dp);
     }
 };
