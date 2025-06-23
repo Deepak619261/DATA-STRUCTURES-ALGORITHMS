@@ -19,19 +19,24 @@ public:
 
         //  this was the top down approach ,why because we going to base case from the bigger problems 
         // now we will see the bottom up appraoch 
-       dp[0]=1;
+        // space optimization 
+       int prev=1;
+       int prev2=1;
 
        for(int i=1;i<=n;i++){
-         int onestep=dp[i-1];
+        int curri=0;
+         int onestep=prev;
          int twostep=0;
          if(i>=2){
-            twostep=dp[i-2];
+            twostep=prev2;
          }
 
-         dp[i]=onestep+twostep;
+         curri=onestep+twostep;
+         prev2=prev;
+         prev=curri;
        }
 
-       return dp[n];
+       return prev;
 
     }
 };
