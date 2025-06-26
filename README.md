@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1900-closest-dessert-cost](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1900-closest-dessert-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
