@@ -13,22 +13,27 @@ public:
     int rob(vector<int>& nums) {
         if(nums.size()==1)return nums[0];
 
-        vector<int>dp(nums.size()+1,0);
+        // vector<int>dp(nums.size()+1,0);
+        int next1=0;
+        int next2=0;
 
         for(int i=nums.size()-1;i>=0;i--){
+            int curri=0;
             int pickhouse=nums[i];
             int dontpickhouse=0;
             if(i+2<nums.size()){
-               pickhouse+=dp[i+2];
+               pickhouse+=next2;
             }
             if(i+1<nums.size()){
-               dontpickhouse=dp[i+1];
+               dontpickhouse=next1;
             }
 
-            dp[i]=max(dontpickhouse,pickhouse);
+            curri=max(dontpickhouse,pickhouse);
+            next2=next1;
+            next1=curri;
         }
         
-        return dp[0];
+        return next1;
 
        
     }
