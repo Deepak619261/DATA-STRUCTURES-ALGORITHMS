@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1900-closest-dessert-cost](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1900-closest-dessert-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2397-count-number-of-ways-to-place-houses](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3587-maximum-points-tourist-can-earn) |
