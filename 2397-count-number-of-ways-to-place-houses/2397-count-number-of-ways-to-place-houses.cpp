@@ -22,17 +22,19 @@ public:
     int countHousePlacements(int n) {
         //  lets solve if there was only one side of the street 
         vector<int>dp(n+2,0);
-        dp[n]=1;
-        dp[n+1]=1;
+        int next=1;
+        int next2=1;
 
         for(int index=n-1;index>=0;index--){
-           int first=dp[index+2]%MOD;
-           int second=dp[index+1]%MOD;
+           int first=next2%MOD;
+           int second=next%MOD;
 
-           dp[index]=(first+second)%MOD;
+           int curri=(first+second)%MOD;
+           next2=next;
+           next=curri;
         }
 
-        int ans=dp[0]%MOD;
+        int ans=next%MOD;
         long long res=(long long)ans%MOD * (long long)ans%MOD;
         return res%MOD;
     }
