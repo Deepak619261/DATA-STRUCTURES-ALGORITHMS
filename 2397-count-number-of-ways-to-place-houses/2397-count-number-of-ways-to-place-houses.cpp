@@ -21,8 +21,18 @@ class Solution {
 public:
     int countHousePlacements(int n) {
         //  lets solve if there was only one side of the street 
-        vector<int>dp(n,-1);
-        int ans=solve(0,n,dp)%MOD;
+        vector<int>dp(n+2,0);
+        dp[n]=1;
+        dp[n+1]=1;
+
+        for(int index=n-1;index>=0;index--){
+           int first=dp[index+2]%MOD;
+           int second=dp[index+1]%MOD;
+
+           dp[index]=(first+second)%MOD;
+        }
+
+        int ans=dp[0]%MOD;
         long long res=(long long)ans%MOD * (long long)ans%MOD;
         return res%MOD;
     }
