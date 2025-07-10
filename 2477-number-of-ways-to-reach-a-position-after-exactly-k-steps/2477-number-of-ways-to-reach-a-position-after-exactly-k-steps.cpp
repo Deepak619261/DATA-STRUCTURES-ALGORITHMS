@@ -13,12 +13,12 @@ class Solution {
 
         // cout<<"["<<index<<"]"<<"["<<endPos<<"]"<<endl;
         if(abs(startPos-endPos)>index)return 0;
-        if(dp[startPos+1000][index]!=-1)return dp[startPos+1000][index];
+        if(dp[index][startPos+1000]!=-1)return dp[index][startPos+1000];
 
         int left=solve(index-1,startPos-1,endPos,k,dp)%MOD;
         int right=solve(index-1,startPos+1,endPos,k,dp)%MOD;
 
-        return dp[startPos+1000][index]=(left+right)%MOD;
+        return dp[index][startPos+1000]=(left+right)%MOD;
 
     }
 public:
@@ -26,7 +26,7 @@ public:
         int dist=startPos-endPos;
         if(dist>k)return 0;
 
-        vector<vector<int>> dp(3000, vector<int>(k+1, -1));
+        vector<vector<int>> dp(k+1, vector<int>(3000, -1));
 
         return solve(k,startPos,endPos,k,dp);
 
