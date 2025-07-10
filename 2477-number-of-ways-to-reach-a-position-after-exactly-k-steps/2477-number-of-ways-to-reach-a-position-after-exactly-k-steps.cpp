@@ -1,33 +1,41 @@
 class Solution {
-public:
-    
-    int M = 1e9+7;
-    
-    int f(int s, int e, int k, int i, vector<vector<int>> &dp){
-		// base condition
-        if(i==0) {
-            if(s==e) {
+    int MOD=1e9+7;
+    int solve(int index,int startPos, int endPos, int k,vector<vector<int>>&dp){
+        // solution taken from the solution section 
+        if(index==0){
+            if(startPos==endPos){
                 return 1;
             }
-            else return 0;
+            else {
+                return 0;
+            }
         }
-        
-		// optimization
-        if(abs(e-s)>i) return 0;
-        if(dp[s+1000][i] != -1) {
-            return dp[s+1000][i]%M;
-        }
-        
-        // choices
-        int left = f(s-1, e, k, i-1, dp)%M;
-        int right = f(s+1, e, k, i-1, dp)%M;
-        
-        return dp[s+1000][i] = (left + right)%M;
+
+        // cout<<"["<<index<<"]"<<"["<<endPos<<"]"<<endl;
+        if(abs(startPos-endPos)>index)return 0;
+        if(dp[startPos+1000][index]!=-1)return dp[startPos+1000][index];
+
+        int left=solve(index-1,startPos-1,endPos,k,dp)%MOD;
+        int right=solve(index-1,startPos+1,endPos,k,dp)%MOD;
+
+        return dp[startPos+1000][index]=(left+right)%MOD;
+
     }
-    
-    int numberOfWays(int s, int e, int k) {
-		// big array size to make sure we don't get runtime error
+public:
+    int numberOfWays(int startPos, int endPos, int k) {
+        int dist=startPos-endPos;
+        if(dist>k)return 0;
+
         vector<vector<int>> dp(3000, vector<int>(k+1, -1));
-        return f(s, e, k, k, dp);
+
+        return solve(k,startPos,endPos,k,dp);
+
+        // dp[startPos][]
+
+        // what we are doing is that we are assuming we have only k steps  , so we are assigning the index as k , and we are at one index moving to both left and righ both 
+        // assuming we are at endpos
+
+
+
     }
 };
