@@ -1,60 +1,30 @@
 class Solution {
-    const int MOD=1e9+7;
-    int solve(int len,int zero ,int one,int currlen,vector<int>&dp){
-        // if you look closely its not about strings , its about how much steps/length you are taking 
-        // if(currlen==len)return 1;
+    int MOD=1e9+7;
+    int solve(int index,int n , int zero , int one,int curr,vector<int>&dp){
+        if(curr>=n)return 0;
 
-        if(currlen>=len)return 0;
+        if(dp[curr]!=-1)return dp[curr];
 
-        if(dp[currlen]!=-1)return dp[currlen];
-        
+        int pickzeros=0;
+        int pickones=0;
 
-        //  we got two choices either we can pick the zero or we can pick the 
+        if(curr+zero<n)pickzeros++;
 
-        
-        
-        
-        int pickzero=0;
-        int pickone=0;
-        
-        if(currlen+zero<=len){
-        pickzero+=1;
-        }
-
-        if(currlen+one<=len){
-        pickone+=1;
-        }
-        
-        
-
-        pickzero+=solve(len,zero,one,currlen+zero,dp)%MOD;
-        pickone+=solve(len,zero,one,currlen+one,dp)%MOD;
-
-        
-        
+        if(curr+one<n)pickones++;
 
 
-       
-       
-       return dp[currlen]=(pickzero+pickone)%MOD;
+        pickzeros+=solve(index+1,n,zero,one,curr+zero,dp)%MOD;
+        pickones+=solve(index+1,n,zero,one,curr+one,dp)%MOD;
 
-
+        return dp[curr]=(long long)(pickzeros+pickones)%MOD;       
     }
 public:
     int countGoodStrings(int low, int high, int zero, int one) {
-        // intution i am getting via seeing the hint is that we should calculate the number of good strings for high+1 and low-1 and return subtractions of both the answer
-        
-
-        
-        vector<int>dp1(high+1,-1);
-        
-        int ans1=solve(high,zero,one,0,dp1);
-    
-        vector<int>dp2(high+1,-1);
-
-
-        int ans2=solve(low-1,zero,one,0,dp2);
-
-        return (ans1-ans2+MOD)%MOD;
+        //  approach coming in my mind is to first calculate the number of possible strings till low 
+        // then calculate the number of good string till high 
+        //  return the diffeerence of (0-> high ) - (o-> low-1);
+        vector<int>dp(low+1,-1);
+        vector<int>dp2(high+2,-1);
+        return (solve(0,high+1,zero,one,0,dp2)-solve(0,low,zero, one , 0,dp)+MOD)%MOD;
     }
 };
