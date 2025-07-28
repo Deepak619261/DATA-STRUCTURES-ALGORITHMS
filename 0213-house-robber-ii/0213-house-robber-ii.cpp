@@ -18,24 +18,34 @@ public:
         // there will be the flow same as the house robber i but we will check the two config , one is that we will start from 0 and second we will start from 1 
         int n=nums.size();
         if(n==1)return nums[0];
-        vector<int>dp1(n+1,0);
+        // vector<int>dp1(n+1,0);
         vector<int>dp2(n+2,0);
-
+        int next2=0;
+        int next1=0;
         // first loop with dp 1 
         for(int i=n-2;i>=0;i--){
-            int pick=nums[i]+dp1[i+2];
-            int dontpick=dp1[i+1];
-            dp1[i]=max(pick,dontpick);
+            int pick=nums[i]+next2;
+            int dontpick=next1;
+            int curri=max(pick,dontpick);
+
+            next2=next1;
+            next1=curri;
         }
+
+
+        int nexi2=0;
+        int nexi1=0;
 
         for(int i=n-1;i>=1;i--){
-            int pick=nums[i]+dp2[i+2];
-            int dontpick=dp2[i+1];
-            dp2[i]=max(pick,dontpick);
+            int pick=nums[i]+nexi2;
+            int dontpick=nexi1;
+            int curri=max(pick,dontpick);
+            nexi2=nexi1;
+            nexi1=curri;
         }
 
 
-        return max(dp1[0],dp2[1]);
+        return max(next1,nexi1);
 
        
     }
