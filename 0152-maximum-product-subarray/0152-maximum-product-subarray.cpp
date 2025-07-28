@@ -1,18 +1,28 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        //  we will go with the very brute force way firstly 
-        int maxProd=INT_MIN;
-        int n=nums.size();
+         // maximum sum and maximum product subarray should lead you to the kadane's algo 
 
-        for(int i=0;i<n;i++){
-            int currprod=1;
-            for(int j=i;j<n;j++){
-               currprod*=nums[j];
-               maxProd=max(currprod,maxProd);
-            }
-        }
+         // i saw it from the solution but the here kadane will work from left and right both sides 
+         int maxi=INT_MIN;
 
-        return maxProd;
+         int prod=1;
+
+         for(int i=0;i<nums.size();i++){
+            prod*=nums[i];
+            maxi=max(prod,maxi);
+            if(prod==0)prod=1;
+         }
+
+         prod=1;
+
+         for(int i=nums.size()-1;i>=0;i--){
+            prod*=nums[i];
+            maxi=max(prod,maxi);
+            if(prod==0)prod=1;
+         }
+
+
+         return maxi;
     }
 };
