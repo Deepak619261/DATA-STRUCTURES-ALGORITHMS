@@ -10,15 +10,18 @@
  * };
  */
 class Solution {
-    vector<int>ans;
+    void solve(vector<int>&arr,TreeNode* root){
+        if(root==NULL)return;
+
+        arr.push_back(root->val);
+        solve(arr,root->left);
+        solve(arr,root->right);
+
+    }
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        if(root==NULL){
-            return ans;
-        }
-        ans.push_back(root->val);
-        preorderTraversal(root->left);
-        preorderTraversal(root->right);
+        vector<int>ans;
+        solve(ans,root);
         return ans;
     }
 };
