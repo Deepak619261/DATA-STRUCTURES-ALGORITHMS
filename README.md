@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2262-solving-questions-with-brainpower) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1900-closest-dessert-cost](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1900-closest-dessert-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
