@@ -1,23 +1,23 @@
 class Solution {
-    void solve(int index,vector<int>&nums,vector<int>temp,vector<vector<int>>&ans){
+    void solve(int index,vector<vector<int>>&ans, vector<int>temp, vector<int>&nums){
         if(index==nums.size()){
             ans.push_back(temp);
             return;
         }
-
-        // at every step i have two option , either i can take the current entry or i can't 
-
-        solve(index+1,nums,temp,ans);
-
+        // on every index , we have two choice , either pick the current element or don't 
         temp.push_back(nums[index]);
-        solve(index+1,nums,temp,ans);
+        solve(index+1,ans,temp,nums);
         temp.pop_back();
+
+        solve(index+1,ans,temp,nums);
     }
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int>temp;
+        //  lets go with very straight forward 
         vector<vector<int>>ans;
-        solve(0,nums,temp,ans);
+
+
+        solve(0,ans,{},nums);
         return ans;
     }
 };
