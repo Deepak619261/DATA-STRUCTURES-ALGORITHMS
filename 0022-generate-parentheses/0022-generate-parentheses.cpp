@@ -15,11 +15,13 @@ class Solution {
         solve(open,close-1,result,str);
         str.pop_back();
     }
-    // else if(close==0){
-    //     str+='(';
-    //     solve(open-1,close,result,str);
-    //     str.pop_back();
-    // }
+    //  commented out because this condition will never be hit , if its hitting then its not a valid parenthesis at all 
+    else if(close==0){
+        cout<<"yes i came here when open->"<<open<<" and close ->"<<close<<endl;
+        str+='(';
+        solve(open-1,close,result,str);
+        str.pop_back();
+    }
     else{
         str+='(';
         solve(open-1,close,result,str);
