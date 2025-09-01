@@ -1,39 +1,54 @@
 class Solution {
-    void solve(int row, int col , vector<vector<string>>&ans, vector<string>board,int n,vector<int>&up, vector<int>&leftupdiag,vector<int>&rightupdiag){
-        if(row==n){
+    bool isvalid(int r, int c , vector<string>&board, int n){
+        int row=r;
+        int col=c;
+
+        //  first check the upper left diagopnal side 
+        while(row>=0 && col>=0){
+            if(board[row--][col--]=='Q')return false;
+        }
+
+        row=r;
+        col=c;
+
+        while(row>=0 && col>=0){
+            if(board[row][col--]=='Q')return false;
+        }
+
+        row=r;
+        col=c;
+
+        while(row<n && col>=0){
+            if(board[row++][col--]=='Q')return false;
+        }
+
+        return true;
+
+    }
+    void solve(int row, int col,vector<string>&board,vector<vector<string>>&ans,int n){
+        if(col==n){
             ans.push_back(board);
             return;
         }
 
-        for(int col=0;col<n;col++){
-            if(up[col]==0 && leftupdiag[row-col+n-1]==0 && rightupdiag[row+col]==0){
-              leftupdiag[row-col+n-1]=1;
-              up[col]=1;
-              rightupdiag[row+col]=1;
-              board[row][col]='Q';
-              solve(row+1,col,ans,board,n,up,leftupdiag,rightupdiag);
-              leftupdiag[row-col+n-1]=0;
-              up[col]=0;
-              rightupdiag[row+col]=0;
-              board[row][col]='.';
+        for(int row=0;row<n;row++){
+            if(isvalid(row,col,board,n)){
+                board[row][col]='Q';
+                solve(row,col+1,board,ans,n);
+                board[row][col]='.';
             }
         }
     }
 public:
     vector<vector<string>> solveNQueens(int n) {
-        //  optimized approach where we just want to check if we can somehow optimize the check functino 
         vector<vector<string>>ans;
         vector<string>board(n);
+        string temp(n,'.');
 
-        string str(n,'.');
         for(int i=0;i<n;i++){
-            board[i]=str;
+            board[i]=temp;
         }
-
-        vector<int>up(n,0);
-        vector<int>leftupdiag(2*n,0);
-        vector<int>rightupdiag(2*n,0);
-        solve(0,0,ans,board,n,up,leftupdiag,rightupdiag);
+        solve(0,0,board,ans,n);
         return ans;
     }
 };
