@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2050-count-good-numbers](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
