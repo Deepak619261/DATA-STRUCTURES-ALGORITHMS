@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1308-smallest-string-with-swaps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1308-smallest-string-with-swaps) |
 | [1319-unique-number-of-occurrences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1319-unique-number-of-occurrences) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1502-construct-k-palindrome-strings) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1308-smallest-string-with-swaps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1308-smallest-string-with-swaps) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1502-construct-k-palindrome-strings) |
