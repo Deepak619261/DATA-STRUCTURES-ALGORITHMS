@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-hand-of-straights) |
 | [0952-word-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1025-minimum-cost-for-tickets) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0830-largest-triangle-area](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -810,4 +812,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2215-finding-3-digit-even-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2442-number-of-arithmetic-triplets) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
