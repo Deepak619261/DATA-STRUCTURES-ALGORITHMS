@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0516-longest-palindromic-subsequence) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
