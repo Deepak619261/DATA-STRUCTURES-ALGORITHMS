@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0740-delete-and-earn) |
 | [0876-hand-of-straights](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-hand-of-straights) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
