@@ -1,20 +1,17 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        //  going bia prefix sum approach 
-        map<int,int>mpp;
-        int count =0;
-        int presum=0;
-        // mpp[0]=1;
+        //  lets go via the brute force first -> that is going through every subarray and checking the sum and counting 
+        int count=0;
 
         for(int i=0;i<nums.size();i++){
-            presum+=nums[i];
-            if(presum==k){count++;}
-            int to_remove=presum-k;
-            count+=mpp[to_remove];
-            mpp[presum]+=1;
+            int sum=nums[i];
+            if(sum==k)count++;
+            for(int j=i+1;j<nums.size();j++){
+                sum+=nums[j];
+                if(sum==k)count++;
+            }
         }
-
         return count;
     }
 };
