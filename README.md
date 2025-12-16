@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0283-move-zeroes) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0368-largest-divisible-subset) |
