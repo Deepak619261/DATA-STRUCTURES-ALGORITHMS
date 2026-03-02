@@ -17,7 +17,22 @@ class Solution {
     }
 public:
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size(),-1);
-        return max(solve(0,nums,dp),solve(1,nums,dp));
+        vector<int>dp(nums.size()+1,0);
+
+        dp[nums.size()]=0;
+
+        for(int index=nums.size()-1;index>=0;index--){
+            int pick=nums[index];
+            int dontpick=0;
+            if(index+2<=nums.size()){
+                pick+=dp[index+2];
+                dontpick=dp[index+1];
+            }
+            dp[index]=max(pick,dontpick);
+
+        }
+
+        return max(dp[0],dp[1]);
+        // return max(solve(0,nums,dp),solve(1,nums,dp));
     }
 };
