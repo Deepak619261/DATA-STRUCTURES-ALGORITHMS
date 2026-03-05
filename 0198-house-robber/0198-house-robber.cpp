@@ -17,17 +17,22 @@ class Solution {
     }
 public:
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size()+1,0);
+        // vector<int>dp(nums.size()+1,0);
+
+        int next=0;
+        int next2=0;
 
         for(int index=nums.size()-1;index>=0;index--){
             int pick=nums[index];
             if(index+2<=nums.size()){
-                pick+=dp[index+2];
+                pick+=next2;
             }
-            int dontpick=dp[index+1];
-            dp[index]=max(pick,dontpick);
+            int dontpick=next;
+            int curri=max(pick,dontpick);
+            next2=next;
+            next=curri;
         }
 
-        return dp[0];
+        return next;
     }
 };
