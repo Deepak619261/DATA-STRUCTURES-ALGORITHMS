@@ -1,4 +1,26 @@
 class Solution {
+       int rob2(vector<int>& nums, int lowerlim , int size) {
+        // vector<int>dp(nums.size()+1,0);
+
+        int next=0;
+        int next2=0;
+
+        for(int index=size-1;index>=lowerlim;index--){
+            int pick=nums[index];
+            if(index+2<=size){
+                pick+=next2;
+            }
+            int dontpick=next;
+            int curri=max(pick,dontpick);
+            next2=next;
+            next=curri;
+        }
+
+        return next;
+    }
+
+
+
        int solve(int index, vector<int>&nums,vector<int>&dp,int size){
         if(index>=size)return 0;
 
@@ -19,8 +41,12 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         if(nums.size()==1)return nums[0];
-        vector<int>dp(nums.size()+1,-1);
-        vector<int>dp2(nums.size()+1,-1);
-        return max(solve(0,nums,dp,nums.size()-1),solve(1,nums,dp2,nums.size()));
+        // vector<int>dp(nums.size()+1,-1);
+        // vector<int>dp2(nums.size()+1,-1);
+
+        return max(rob2(nums,0,nums.size()-1),rob2(nums,1,nums.size()));
+
+
+        // return max(solve(0,nums,dp,nums.size()-1),solve(1,nums,dp2,nums.size()));
     }
 };
