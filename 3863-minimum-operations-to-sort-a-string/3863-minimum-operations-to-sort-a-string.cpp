@@ -1,6 +1,13 @@
 class Solution {
 public:
     int minOperations(string s) {
+
+        //  star thinking from the base case -> for string length one 
+        // string len ==2 , if the string is not sorted then its impossible because we need to sort the entire string 
+        // dry run some cases 
+        // only where the strict condition that minimum char doesn't exists in any proper prefix AND max char doesn't exists in any proper suffix , then we return 3 else 2 
+        //   proper prefix means from o to n-1 except only the last index 
+        //  vice versa the proper suffix
         int n=s.size();
         string str=s;
         sort(str.begin(),str.end());
