@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3893-generate-tag-for-video-caption) |
 ## Sorting
 |  |
