@@ -22,9 +22,38 @@ public:
         int n=grid[0].size();
 
 
-        vector<vector<int>>dp(m,vector<int>(n,-1));
+        // vector<vector<int>>dp(m,vector<int>(n,0));
+        vector<int>next(n,0);
+        next[n-1]=grid[m-1][n-1];
+        // dp[m-1][n-1]=grid[m-1][n-1];
+        for(int i=m-1;i>=0;i--){
+            vector<int>curri(n,0);
+            for(int j=n-1;j>=0;j--){
+                if(i==m-1 && j==n-1){
+                    curri[n-1]=grid[i][j];
+                    continue;
+                }
+                int down=INT_MAX;
+                int right=INT_MAX;
+                if(i+1<m)down=next[j]+grid[i][j];
+                if(j+1<n)right=curri[j+1]+grid[i][j];
+                curri[j]=min(down,right);
+            }
+            for(auto it:curri){
+                cout<<it<<" ";
+            }
+            cout<<endl;
+            next=curri;
+        }
 
-        return solve(0,0,grid,m,n,dp);
+        // for(int i=0;i<m;i++){
+        //     for(int j=0;j<n;j++){
+        //         cout<<dp[i][j]<<" ";
+        //     }
+        //     cout<<endl;
+        // }
+
+        return next[0];
         
         
     }
