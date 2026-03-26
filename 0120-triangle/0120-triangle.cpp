@@ -23,23 +23,26 @@ public:
         int m=triangle.size();
         int n=triangle[m-1].size();
         vector<vector<int>>dp(m,vector<int>(n,-1));
+        vector<int>front(n,0);
 
         for(int j=0;j<triangle[m-1].size();j++){
-            dp[m-1][j]=triangle[m-1][j];// base case herew 
+            front[j]=triangle[m-1][j];// base case herew 
         }
 
         for(int i=m-2;i>=0;i--){
             // we 
+            vector<int>curri(n,0);
             for(int j=0;j<=i;j++){
                 int curr=triangle[i][j];
-                int first=dp[i+1][j];
-                int second=dp[i+1][j+1];
-                dp[i][j]=curr+min(first,second);
+                int first=front[j];
+                int second=front[j+1];
+                curri[j]=curr+min(first,second);
             }
+            front=curri;
             
         }
 
-        return dp[0][0];
+        return front[0];
         
     }
 };
