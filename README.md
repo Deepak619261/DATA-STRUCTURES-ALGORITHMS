@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0931-minimum-falling-path-sum) |
 | [0952-word-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0952-word-subsets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1025-minimum-cost-for-tickets) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0868-push-dominoes) |
+| [0931-minimum-falling-path-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1063-best-sightseeing-pair) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0931-minimum-falling-path-sum) |
 | [1117-as-far-from-land-as-possible](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1117-as-far-from-land-as-possible) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1402-count-square-submatrices-with-all-ones) |
