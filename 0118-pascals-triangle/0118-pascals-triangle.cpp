@@ -39,7 +39,8 @@ public:
             vector<int>temp(i+1,1);
             int col=i+1;
             for(int j=1;j<=i;j++){
-                temp[j]=factorial(i,j);
+                 long long fct=(1LL*(i+1-j)*temp[j-1])/j;
+                 temp[j]=fct;
             }
             res.push_back(temp);
 
