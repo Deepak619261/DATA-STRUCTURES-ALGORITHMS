@@ -14,9 +14,14 @@ public:
         
         vector<int>ans(rowIndex+1,1);
         for(int i=1;i<rowIndex;i++){
-            cout<<factorial(rowIndex,i)<<" ";
-            ans[i]=factorial(rowIndex,i);
+            long long fct=(1LL*(rowIndex+1-i)*ans[i-1])/i;
+            // fct=fct/i;
+            // fct=fct*ans[i-1];
+            ans[i]=fct;
         }
+
+        //  time complextiy is O(rowIndex * rowIndex) as the complexity of the factorial is O(column)
+        //  more optimized will be if we don't call the formula again and again 
         return ans;
     }
 };
