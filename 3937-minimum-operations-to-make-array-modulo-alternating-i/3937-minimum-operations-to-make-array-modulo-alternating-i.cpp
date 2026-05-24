@@ -43,6 +43,8 @@ public:
             }
         }
 
+        // time complexity -> O(n*k)+O(k^2)
+
         return cnt;
     }
 };
