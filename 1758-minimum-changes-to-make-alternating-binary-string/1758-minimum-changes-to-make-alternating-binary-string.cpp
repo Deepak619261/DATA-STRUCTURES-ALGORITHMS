@@ -9,29 +9,15 @@ public:
         int cost=0;
     for(int i=0;i<s.size();i++){
         if(i%2==0){
-           int diff=abs(s[i]-'0');
-           cost+=min(diff,2-diff);
+           cost+=s[i]-'0';
         }
         else{
-           int diff=abs(s[i]-'1');
-           cost+=min(diff,2-diff);
+           cost+='1'-s[i];
         }
     }
     ans=min(ans,cost);
-    cost=0;
-
-      for(int i=0;i<s.size();i++){
-        if(i%2==0){
-           int diff=abs(s[i]-'1');
-           cost+=min(diff,2-diff);
-        }
-        else{
-           int diff=abs(s[i]-'0');
-           cost+=min(diff,2-diff);
-        }
-    }
-
-    ans=min(ans,cost);
+    int n=s.size();
+    ans=min(ans,n-ans);
     return ans;
         
     }
