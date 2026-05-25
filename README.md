@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0931-minimum-falling-path-sum) |
 | [0952-word-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0952-word-subsets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0868-push-dominoes) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1025-minimum-cost-for-tickets) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Quickselect
 |  |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Shortest Path
 |  |
@@ -864,4 +868,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0912-sort-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
