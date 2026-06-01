@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0056-merge-intervals) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0066-plus-one) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0073-set-matrix-zeroes) |
