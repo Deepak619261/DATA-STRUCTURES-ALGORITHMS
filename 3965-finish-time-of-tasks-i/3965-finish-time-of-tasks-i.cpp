@@ -1,4 +1,20 @@
 class Solution {
+    long long dfs(int node,vector<vector<int>>&adj,vector<int>&baseTime){
+     // its the leaf case  
+       if(adj[node].size()==0)return baseTime[node];
+     
+
+     long long maxi=LLONG_MIN;
+     long long mini=LLONG_MAX;
+     for(auto it:adj[node]){
+        long long child=dfs(it,adj,baseTime);
+        maxi=max(child,maxi);
+        mini=min(child,mini);
+     }
+
+     return 2LL*maxi-mini+baseTime[node];
+    
+    }
 public:
     long long finishTime(int n, vector<vector<int>>& edges, vector<int>& baseTime) {
         //  build the adjacency list how i dk
@@ -9,34 +25,35 @@ public:
             adj[it[0]].push_back(it[1]);
         }
 
-        vector<long long>effectivetime;
+        // vector<long long>effectivetime;
 
-        for(auto it:baseTime){
-            effectivetime.push_back(it);
-        }
+        // for(auto it:baseTime){
+        //     effectivetime.push_back(it);
+        // }
         
 
 
-        for(int i=n-1;i>=0;i--){
-            if(adj[i].size()==0){
-                effectivetime[i]=baseTime[i];
-            }
-            else{
-                //  take the maximum of its children 
-                long long maxi=LLONG_MIN;
-                long long mini=LLONG_MAX;
-                for(auto it:adj[i]){
-                    maxi=max(effectivetime[it],maxi);
-                    mini=min(effectivetime[it],mini);
-                }
-                effectivetime[i]=(maxi-mini);
-                effectivetime[i]+=(baseTime[i]+maxi);
-            }
-            // cout<<"for node "<<i<<" effectivetime is"<<effectivetime[i]<<endl;
-            // cout<<" the value for maxi is "<<maxi<<" and value of mini is "<<mini<<endl;
-        }
+        // for(int i=n-1;i>=0;i--){
+        //     if(adj[i].size()==0){
+        //         effectivetime[i]=baseTime[i];
+        //     }
+        //     else{
+        //         //  take the maximum of its children 
+        //         long long maxi=LLONG_MIN;
+        //         long long mini=LLONG_MAX;
+        //         for(auto it:adj[i]){
+        //             maxi=max(effectivetime[it],maxi);
+        //             mini=min(effectivetime[it],mini);
+        //         }
+        //         effectivetime[i]=(maxi-mini);
+        //         effectivetime[i]+=(baseTime[i]+maxi);
+        //     }
+        //     // cout<<"for node "<<i<<" effectivetime is"<<effectivetime[i]<<endl;
+        //     // cout<<" the value for maxi is "<<maxi<<" and value of mini is "<<mini<<endl;
+        // }
 
-        return effectivetime[0];
+        // return effectivetime[0];
+        return dfs(0,adj,baseTime);
         
     }
 };
