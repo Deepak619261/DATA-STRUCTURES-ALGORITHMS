@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0056-merge-intervals) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0138-copy-list-with-random-pointer) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0115-distinct-subsequences) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0088-merge-sorted-array) |
