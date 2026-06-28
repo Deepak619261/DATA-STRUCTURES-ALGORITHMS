@@ -885,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
