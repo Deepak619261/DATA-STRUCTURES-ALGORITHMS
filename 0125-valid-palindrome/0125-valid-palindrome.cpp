@@ -1,31 +1,27 @@
 class Solution {
-    bool solve(string str){
-        int s=0;
-        int e=str.size()-1;
-
-        while(s<=e){
-            if(str[s]!=str[e]) return false;
-            s++;
-            e--;
-        }
-
-        return true;
+    bool isalphanumeric(char c){
+        if((c>='a' && c<='z') || (c>='A' && c<='Z') || (c>='0' && c<='9'))return true;
+        return false;
     }
 public:
     bool isPalindrome(string s) {
-        string str="";
+        if(s.size()==0)return true;
+        int start=0;
+        int end=s.size()-1;
 
-        for(int i=0;i<s.size();i++){
-            if(isupper(s[i]) && s[i]>='A' && s[i]<='Z'){
-                str+=tolower(s[i]);
+        while(start<end){
+            while(start<end && !isalphanumeric(s[end])){
+                end--;
             }
-
-            if(s[i]>='a' && s[i]<='z' || s[i]<='9' && s[i]>='0'){
-                str+=s[i];
+            while(start<end && !isalphanumeric(s[start])){
+                start++;
             }
-            
+            // if(start>=s.size() || end<0)return false;
+            if(tolower(s[start])!=tolower(s[end]))return false;
+            start++;
+            end--;
         }
 
-        return solve(str);
+        return true;
     }
 };
