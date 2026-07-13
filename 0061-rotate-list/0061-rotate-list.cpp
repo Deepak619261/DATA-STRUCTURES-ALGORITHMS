@@ -9,37 +9,50 @@
  * };
  */
 class Solution {
+    int GetLength(ListNode* head){
+        ListNode* temp=head;
+        int count=0;
+
+        while(temp){
+            temp=temp->next;
+            count++;
+        }
+
+        return count;
+    }
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        //  edge case
-        if(head==NULL || head->next==NULL || k==0) return head;
 
-        int len=1;
+        if(head==NULL || head->next==NULL)return head;
+
 
         ListNode* temp=head;
 
-        while(temp->next){
-            len++;
-            temp=temp->next;
-        }
+        // cout<<GetLength(head)<<endl;
+        int len=GetLength(head);
 
-        temp->next=head;
         k=k%len;
-        k=len-k-1;
 
-        temp=head;
+        if(k==0)return head;
 
-        while(k>0){
-            temp=temp->next;
-            k--;
+        int lenact=len-k-1;
+
+        ListNode* lastptr=head;
+
+        while(lastptr->next){
+            lastptr=lastptr->next;
+        }
+        
+        while(lenact--){
+            head=head->next;
         }
 
-        ListNode* ans=temp->next;
+        ListNode* newhead=head->next;
 
-        temp->next=NULL;
+        head->next=NULL;
+        lastptr->next=temp;
 
-        return ans;
 
-
+        return newhead;
     }
 };
