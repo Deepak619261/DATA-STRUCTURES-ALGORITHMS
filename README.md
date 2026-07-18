@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2048-build-array-from-permutation) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
