@@ -1,41 +1,38 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        //  just maintain the two array representing the max of prefix and max suffix 
+        // the previous appraoach could be enhanced just via one suffix or one prefix array 
+        // in that case we will traverse and keep the reocrd for one of the left side or right depending on from where we are taking the suffix 
 
-        int n=height.size();
+        //  the optimal apporach --> for a water to calcualte we just want two things -> there exists something bigger on the left side and right side from the current eleement 
+        int s=0;
+        int e=height.size()-1;
 
-        vector<int>prefix(n,0);
-        vector<int>suffix(n,0);
-        prefix[0]=height[0];
-        suffix[n-1]=height[n-1];
-
-        for(int i=1;i<height.size();i++){
-            prefix[i]=max(height[i],prefix[i-1]);
-        }
-
-        for(int i=n-2;i>=0;i--){
-            suffix[i]=max(height[i],suffix[i+1]);
-        } 
-
-        // for(auto it:suffix){
-        //     cout<<it<<" ";
-        // }
-
+        int leftmax=0;
+        int rightmax=0;
         int answer=0;
 
-        for(int i=1;i<n-1;i++){
-            int leftmax=prefix[i];
-            int rightmax=suffix[i];
-
-            // cout<<"for index "<<i<<" the leftmax is"<<leftmax<<" and rightmax is "<<rightmax<<endl;
-
-            if(height[i]<leftmax && height[i]<rightmax){
-                answer+=(min(leftmax,rightmax)-height[i]);
-            // cout<<" the answer we are adding is "<<(min(leftmax,rightmax)-height[i])<<endl;
+        while(s<e){
+            // if the first is lesser than the right 
+            if(height[s]<=height[e]){
+                if(leftmax>height[s]){
+                    answer+=(leftmax-height[s]);
+                }
+                else{
+                    leftmax=height[s];
+                }
+                s++;
+            }
+            else{
+                if(rightmax>height[e]){
+                    answer+=(rightmax-height[e]);
+                }
+                else{
+                    rightmax=height[e];
+                }
+                e--;
             }
         }
-
         return answer;
     }
 };
