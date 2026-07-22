@@ -2,19 +2,18 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         int first=0;
-        int second=1;
-
-        while(first<nums.size() && second<nums.size()){
+        int second=0;
+        int n=nums.size();
+        while(first<n && second<n){
             if(nums[first]==nums[second]){
                 second++;
             }
             else{
-                nums[first+1]=nums[second];
-                second++;
+                swap(nums[first+1], nums[second]);
                 first++;
+                second++;
             }
         }
-
         return first+1;
     }
 };
