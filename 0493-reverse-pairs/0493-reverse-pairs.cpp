@@ -1,21 +1,15 @@
 class Solution {
     int count=0;
-    void countPair(int s, int mid ,int e , vector<int>&nums){
-        int right=mid+1;
-         for(int i=s;i<=mid;i++){
-            while(right<=e && (long long)nums[i]>(long long)2*(long long)nums[right]){
-                right++;
-            }
-            count+=(right-(mid+1));
-         }
-    }
+    // void countPair(int s, int mid ,int e , vector<int>&nums){
+      
+    // }
     void MergeSort(int s,int e,vector<int>&nums){
         if(s>=e)return;
         int mid=(s+e)/2;
 
         MergeSort(s,mid,nums);
         MergeSort(mid+1,e,nums);
-        countPair(s,mid,e,nums);
+        // countPair(s,mid,e,nums);
         Merge(s,mid,e,nums);
     }
 
@@ -24,6 +18,14 @@ class Solution {
 
         int first=s;
         int second=mid+1;
+
+        int right=mid+1;
+        for(int i=s;i<=mid;i++){
+            while(right<=e && (long long)nums[i]>(long long)2*(long long)nums[right]){
+                right++;
+            }
+            count+=(right-(mid+1));
+         }
 
         while(first<=mid && second<=e){
             // if((long long)nums[first]>(long long)2*(long long)nums[second])count++;
