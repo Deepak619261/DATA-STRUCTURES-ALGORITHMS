@@ -1,19 +1,22 @@
 class Solution {
-    int count=0;
+    // int count=0;
     // void countPair(int s, int mid ,int e , vector<int>&nums){
       
     // }
-    void MergeSort(int s,int e,vector<int>&nums){
-        if(s>=e)return;
+    int MergeSort(int s,int e,vector<int>&nums){
+        int count=0;
+        if(s>=e)return count;
         int mid=(s+e)/2;
 
-        MergeSort(s,mid,nums);
-        MergeSort(mid+1,e,nums);
+        count+=MergeSort(s,mid,nums);
+        count+=MergeSort(mid+1,e,nums);
         // countPair(s,mid,e,nums);
-        Merge(s,mid,e,nums);
+        count+=Merge(s,mid,e,nums);
+        return count;
     }
 
-    void Merge(int s, int mid , int e, vector<int>&nums){
+    int Merge(int s, int mid , int e, vector<int>&nums){
+        int count=0;
         vector<int>temp;
 
         int first=s;
@@ -52,14 +55,15 @@ class Solution {
         for(int i=s;i<=e;i++){
             nums[i]=temp[i-s];
         }
+        return count;
     }
 public:
     int reversePairs(vector<int>& nums) {
         //  the most brute force that comes to th emind is 
       
 
-        MergeSort(0,nums.size()-1,nums);
+        return  MergeSort(0,nums.size()-1,nums);
 
-        return count;
+        // return count;
     }
 };
