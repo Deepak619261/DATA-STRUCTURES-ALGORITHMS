@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0518-coin-change-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0493-reverse-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2047-find-a-peak-element-ii) |
 | [2591-frog-jump-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2591-frog-jump-ii) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
@@ -707,10 +711,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Recursion
 |  |
@@ -911,4 +917,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0128-longest-consecutive-sequence) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
