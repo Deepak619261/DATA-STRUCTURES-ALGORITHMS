@@ -19,25 +19,31 @@ class Solution {
 public:
     int uniquePaths(int m, int n) {
         // vector<vector<bool>>visited(m,vector<bool>(n,false));
-        vector<vector<int>>dp(m,vector<int>(n,0));
+        // vector<vector<int>>dp(m,vector<int>(n,0));
+        vector<int>next(n,0);
         // return solve(0,0,m,n,dp);
-        dp[m-1][n-1]=1;
+        // next[n-1]=1;
 
         for(int i=m-1;i>=0;i--){
+            vector<int>curr(n,0);
             for(int j=n-1;j>=0;j--){
-                if(i==m-1 && j==n-1)continue;
+                if(i==m-1 && j==n-1){
+                    curr[j]=1;
+                    continue;
+                }
                 int up=0;
                 int left=0;
                 if(i+1<m){
-                  up=dp[i+1][j];
+                  up=next[j];
                 }
                 if(j+1<n){
-                    left=dp[i][j+1];
+                    left=curr[j+1];
                 }
-                dp[i][j]=up+left;
+                curr[j]=up+left;
             }
+            next=curr;
         }
 
-        return dp[0][0];
+        return next[0];
     }
 };
