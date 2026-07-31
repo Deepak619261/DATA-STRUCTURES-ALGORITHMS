@@ -1,26 +1,33 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        if(nums.size()==0)return 0;
-        sort(nums.begin(),nums.end());
+        //  lets go with the brute force first 
 
-        int last=INT_MIN;
-        int longest=1;
-        int cnt=0;
+        //  intiliaze a count , and pick a element and count if its next element exists while it exists increment the count and keep taking the maxi 
+        int ans=0;
+        int count=1;
 
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]-1==last){
-                cnt++;
-            }
-            else if(nums[i]!=last){
-                // prevents the duplicate check 
-                cnt=1;
-            }
-            last=nums[i];
-            longest =max(cnt,longest);
+        unordered_map<int,int>mpp;
 
+        for(auto it:nums){
+            mpp[it]++;
         }
 
-        return longest;
+
+        for(auto it:mpp){
+            if(!mpp.contains(it.first-1)){
+            count=1;
+            int num=it.first;
+            while(mpp.contains(num+1)){
+                count++;
+                num++;
+            }
+            }
+            ans=max(ans,count);
+        }
+
+        return ans;
+
+
     }
 };
