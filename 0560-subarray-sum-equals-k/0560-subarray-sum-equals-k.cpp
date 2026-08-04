@@ -1,17 +1,28 @@
 class Solution {
 public:
-    int subarraySum(vector<int>& nums, int k) {
-        //  lets go via the brute force first -> that is going through every subarray and checking the sum and counting 
-        int count=0;
+    int subarraySum(vector<int>& arr, int k) {
+         // code here
+        unordered_map<int,int>mpp;
 
-        for(int i=0;i<nums.size();i++){
-            int sum=nums[i];
-            if(sum==k)count++;
-            for(int j=i+1;j<nums.size();j++){
-                sum+=nums[j];
-                if(sum==k)count++;
-            }
+        mpp[0]=1;
+        
+        
+        //  reverse engineering --> i have take sum till the ith index  , for k subarray need to 
+        // to be exists i should have one sum-k before in this loop 
+        
+        int ans=0;
+        long long sum=0;
+        
+        for(int i=0;i<arr.size();i++){
+            sum+=arr[i];
+
+            ans+=mpp[sum-k];
+
+
+            mpp[sum]++;
+            
         }
-        return count;
+        
+        return ans;
     }
 };
