@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0503-next-greater-element-ii) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0337-house-robber-iii) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0337-house-robber-iii) |
