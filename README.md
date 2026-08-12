@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0820-find-eventual-safe-states) |
