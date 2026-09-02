@@ -9,28 +9,32 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        ListNode* fast=head;
+
         ListNode* slow=head;
-
-        //  love you sunshine ! 
-
-        while(fast && fast->next){
-            fast=fast->next;
-            if(fast) fast=fast->next;
-
+        ListNode* fast=head;
+        while(fast!=NULL){
             slow=slow->next;
-
-            if(slow==fast){
-                slow=head;
-                while(slow!=fast){
-                    slow=slow->next;
-                    fast=fast->next;
-                }
-                return slow;
+            fast=fast->next;
+            if(fast){
+                fast=fast->next;
+            }
+            if(fast==slow){
+                break;
             }
         }
+        if(fast==NULL)return fast;
+        slow=head;
+        cout<<fast->val<<endl;
+        while(slow!=fast){
+            slow=slow->next;
+            fast=fast->next;
+            if(slow==fast){
+                cout<<"matched the node at slow "<<slow->val<<"and fast "<<fast->val<<endl;
+            }
+        }
+        cout<<"reached heere"<<endl;
 
-
-        return NULL;
+        return slow;
+        
     }
 };
