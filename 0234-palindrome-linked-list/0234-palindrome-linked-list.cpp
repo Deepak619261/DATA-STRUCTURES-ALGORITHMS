@@ -9,47 +9,62 @@
  * };
  */
 class Solution {
-     ListNode* reverseList(ListNode* head) {
-
-        if(head==NULL) return head;
-        ListNode* curr=head;
+    ListNode* reverse(ListNode* head){
         ListNode* prev=NULL;
-        ListNode* next=curr->next;
+        ListNode* curr=head;
+        ListNode* next=head;
 
-
-        while(curr!=NULL){
+        while(curr){
+            next=curr->next;
             curr->next=prev;
             prev=curr;
             curr=next;
-            if(curr)    next=curr->next;
         }
-
         return prev;
     }
 public:
     bool isPalindrome(ListNode* head) {
-        ListNode* fast=head;
+        //  first of all reach at the middle 
+        //  for even length it will be the one previous 
+        // for the odd length it will be the just mid because while comparing we will go via the min length 
         ListNode* slow=head;
+        ListNode* fast=head;
+        ListNode* prev=head;
 
-        while(fast->next && fast->next->next){
+        while(fast && fast->next){
+            prev=slow;
             slow=slow->next;
-            fast=fast->next->next;
+            fast=fast->next;
+            if(fast){
+                fast=fast->next;
+            }
         }
 
+        // ListNode* ptr2=slow;
 
-        ListNode* second=reverseList(slow->next);
+        if(fast!=NULL){
+            prev=slow;
+            slow=slow->next;
+        }
 
-        ListNode* temp=head;
+        prev->next=NULL;
+        ListNode* reverseptr=reverse(slow);
 
-        while(second){
-            if(temp->val != second->val)  return false;
-            temp=temp->next;
+        ListNode* first=head;
+        ListNode* second=reverseptr;
+
+        while(first && second){
+            if(first->val!=second->val){
+                ListNode* back=reverse(reverseptr);
+                prev->next=back;
+                return false;
+            }
+            first=first->next;
             second=second->next;
         }
-
-        reverseList(slow->next);
-
-        return true;
+         ListNode* back=reverse(reverseptr);
+         prev->next=back;
+         return true;
         
     }
 };
