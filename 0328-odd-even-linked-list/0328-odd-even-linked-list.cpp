@@ -11,34 +11,31 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if(head==NULL) return NULL;
-
-        ListNode* first=new ListNode(-1);
-        ListNode* second=new ListNode(-1);
-        ListNode* firstcurr=first;
-        ListNode* secondcurr=second;
-
-        ListNode* temp=head;
-        int cnt=1;
-
-        while(temp){
-            if(cnt%2==0){
-              secondcurr->next=temp;
-              temp=temp->next;
-              secondcurr=secondcurr->next;
-              secondcurr->next=NULL;
-            }
-            else{
-                firstcurr->next=temp;
-                temp=temp->next;
-                firstcurr=firstcurr->next;
-                firstcurr->next=NULL;
-            }
-            cnt++;
+        if(head==NULL || head->next==NULL)return head;
+        ListNode* secondptr=new ListNode(-1);
+        ListNode* dummy =secondptr;
+        ListNode* curr=head;
+        ListNode* next=head;
+        while(curr && curr->next){
+            next=curr->next;
+            curr->next=next->next;
+            secondptr->next=next;
+            secondptr=next;
+            next->next=NULL;
+            curr=curr->next;
         }
 
-        firstcurr->next=second->next;
-        return first->next;
+        ListNode* temp=head;
+        cout<<"printing the first half"<<endl;
+        while(temp->next){
+            cout<<temp->val<<" ";
+            temp=temp->next;
+        }
 
+        temp->next=dummy->next;
+        return head;
+        
+
+        
     }
 };
