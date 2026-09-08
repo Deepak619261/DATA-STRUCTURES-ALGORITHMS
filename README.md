@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2413-smallest-even-multiple](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2413-smallest-even-multiple) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2610-closest-prime-numbers-in-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2413-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2610-closest-prime-numbers-in-range) |
 ## Queue
 |  |
