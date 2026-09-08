@@ -11,30 +11,27 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        // for you sunshine ! 
-     ListNode* first=head;   
-     ListNode* second=head;
+        // 
+        if(head->next==NULL && n==1)return NULL; 
+        ListNode* slow=head;
+        ListNode* fast=head;
+        int count=0;
+        while(count<n && fast){
+            fast=fast->next;
+            count++;
+        }
+        if(fast==NULL){
+            ListNode* ans=head->next;
+            head->next=NULL;
+            return ans;
+        }
 
-    //   the approach is very simple , we have to keep a distance of N between these two pointer and get to the last of the linked automatically the first pointer will be pointing towards the Nth from the last 
-    int count=n;
-
-    while(count){
-        second=second->next;
-        count--;
-    }
-    
-    while(second && second->next){
-        second=second->next;
-        first=first->next;
-    }
-
-    if(second==NULL) return first->next;
-
-    if(first->next){
-        first->next=first->next->next;
-    }
-
-    return head;
-
+        while(fast && fast->next){
+            slow=slow->next;
+            fast=fast->next;
+        }
+        slow->next=slow->next->next;
+        return head;
+        
     }
 };
