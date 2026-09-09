@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2442-number-of-arithmetic-triplets) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
