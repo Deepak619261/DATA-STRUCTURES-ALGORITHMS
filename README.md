@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0282-expression-add-operators) |
+| [0365-water-and-jug-problem](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0830-largest-triangle-area](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0830-largest-triangle-area) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0684-redundant-connection) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0337-house-robber-iii) |
+| [0365-water-and-jug-problem](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -967,11 +970,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0365-water-and-jug-problem) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
