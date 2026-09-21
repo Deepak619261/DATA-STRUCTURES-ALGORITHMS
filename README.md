@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0912-sort-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0931-minimum-falling-path-sum) |
 | [0952-word-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0952-word-subsets) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0830-largest-triangle-area](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0830-largest-triangle-area) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1236-n-th-tribonacci-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0740-delete-and-earn) |
 | [0876-hand-of-straights](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0876-hand-of-straights) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0621-task-scheduler) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1502-construct-k-palindrome-strings) |
@@ -913,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2413-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/2610-closest-prime-numbers-in-range) |
@@ -971,12 +976,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0365-water-and-jug-problem) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0365-water-and-jug-problem) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak619261/DATA-STRUCTURES-ALGORITHMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bézout's Lemma
